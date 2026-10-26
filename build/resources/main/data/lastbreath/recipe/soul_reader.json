@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "GAG",
+    " P "
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "A": "minecraft:amethyst_shard",
+    "P": "minecraft:dark_oak_planks"
+  },
+  "result": {
+    "id": "lastbreath:soul_reader",
+    "count": 1
+  }
+}

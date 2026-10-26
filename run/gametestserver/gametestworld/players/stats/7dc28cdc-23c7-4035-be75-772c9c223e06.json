@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "lastbreath:return_heart": 1
+    },
+    "minecraft:custom": {
+      "minecraft:open_chest": 1,
+      "minecraft:time_since_rest": 0,
+      "minecraft:leave_game": 3,
+      "minecraft:deaths": 1,
+      "minecraft:time_since_death": 0
+    }
+  },
+  "DataVersion": 5023
+}

@@ -1,0 +1,9 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 20
+    }
+  },
+  "DataVersion": 5023
+}

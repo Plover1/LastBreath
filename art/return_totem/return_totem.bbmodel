@@ -1,0 +1,7380 @@
+{
+  "meta": {
+    "format_version": "5.0",
+    "model_format": "java_block",
+    "box_uv": false
+  },
+  "name": "Last Breath — Return Totem",
+  "model_identifier": "return_heart",
+  "credit": "Siris102",
+  "resolution": {
+    "width": 64,
+    "height": 64
+  },
+  "elements": [
+    {
+      "name": "Carved silhouette 00",
+      "type": "cube",
+      "uuid": "c2dd718f-eaaa-4b4c-8d4e-0040ff4419a3",
+      "from": [
+        7.65,
+        0.4,
+        7.1
+      ],
+      "to": [
+        8.35,
+        1.1,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 01",
+      "type": "cube",
+      "uuid": "61f3a09a-e388-46d5-8bc4-59a8cf7fc99f",
+      "from": [
+        7.4,
+        1.1,
+        7.1
+      ],
+      "to": [
+        8.6,
+        2,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 02",
+      "type": "cube",
+      "uuid": "f6e0bdc8-5c15-4862-8d14-dee6861f58f3",
+      "from": [
+        7.15,
+        2,
+        7.1
+      ],
+      "to": [
+        8.85,
+        3,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 03",
+      "type": "cube",
+      "uuid": "a59e0e64-2649-4ade-8e6b-2ccad5698dff",
+      "from": [
+        6.9,
+        3,
+        7.1
+      ],
+      "to": [
+        9.1,
+        4,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 04",
+      "type": "cube",
+      "uuid": "a37b83c3-b63b-47db-b2ac-e1ef883ff351",
+      "from": [
+        6.6,
+        4,
+        7.1
+      ],
+      "to": [
+        9.4,
+        5,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 05",
+      "type": "cube",
+      "uuid": "22bcd664-c149-4993-b744-f7ffde5c1235",
+      "from": [
+        6.3,
+        5,
+        7.1
+      ],
+      "to": [
+        9.7,
+        6,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 06",
+      "type": "cube",
+      "uuid": "7e7f9da0-ef65-42b9-bcff-80419daf4a15",
+      "from": [
+        6,
+        6,
+        7.1
+      ],
+      "to": [
+        10,
+        7,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 07",
+      "type": "cube",
+      "uuid": "338e0043-fcdf-4fec-8e70-cdc39aa2162a",
+      "from": [
+        5.75,
+        7,
+        7.1
+      ],
+      "to": [
+        10.25,
+        8.8,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 08",
+      "type": "cube",
+      "uuid": "565008f9-2580-421c-af88-e57edd8c0e5c",
+      "from": [
+        5.45,
+        8.8,
+        7.1
+      ],
+      "to": [
+        10.55,
+        9.7,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 09",
+      "type": "cube",
+      "uuid": "d81ef107-aed5-41b5-8f04-b13739b0ece6",
+      "from": [
+        5.75,
+        9.7,
+        7.1
+      ],
+      "to": [
+        10.25,
+        10.2,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 10",
+      "type": "cube",
+      "uuid": "7fc93467-0421-4454-b467-ecde732d4792",
+      "from": [
+        6.35,
+        10.2,
+        7.1
+      ],
+      "to": [
+        9.65,
+        11.2,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 11",
+      "type": "cube",
+      "uuid": "465799a5-7193-4a63-8206-46d8c166f2b8",
+      "from": [
+        5.9,
+        11.2,
+        7.1
+      ],
+      "to": [
+        10.1,
+        13.9,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 12",
+      "type": "cube",
+      "uuid": "b0d51e9e-c758-4548-a982-dfe47c78f803",
+      "from": [
+        6.15,
+        13.9,
+        7.1
+      ],
+      "to": [
+        9.85,
+        14.5,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 13",
+      "type": "cube",
+      "uuid": "140c8932-54ca-41b2-bf08-04d6089a1687",
+      "from": [
+        6.65,
+        14.5,
+        7.1
+      ],
+      "to": [
+        9.35,
+        15,
+        8.8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Face recess",
+      "type": "cube",
+      "uuid": "e364fb64-0fc3-42d7-a4d2-050108afbbd0",
+      "from": [
+        6.2,
+        11,
+        8.8
+      ],
+      "to": [
+        9.8,
+        13.6,
+        8.9
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Recessed cyan eye",
+      "type": "cube",
+      "uuid": "56323d43-d4b9-4954-bd4f-7b7a6f92814a",
+      "from": [
+        6.15,
+        11.85,
+        8.91
+      ],
+      "to": [
+        7.25,
+        12.7,
+        8.98
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Eye inner light",
+      "type": "cube",
+      "uuid": "2864347b-031d-406e-8d1d-f3f04473bc21",
+      "from": [
+        6.45,
+        12.05,
+        8.99
+      ],
+      "to": [
+        6.8500000000000005,
+        12.45,
+        9.02
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved cheek",
+      "type": "cube",
+      "uuid": "b0749129-8d2e-4387-8ebe-a650cc94b828",
+      "from": [
+        5.95,
+        11.25,
+        8.9
+      ],
+      "to": [
+        7.3500000000000005,
+        11.8,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Recessed cyan eye",
+      "type": "cube",
+      "uuid": "707909c1-edd6-41c3-8b65-6d547e16c8c6",
+      "from": [
+        8.75,
+        11.85,
+        8.91
+      ],
+      "to": [
+        9.85,
+        12.7,
+        8.98
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Eye inner light",
+      "type": "cube",
+      "uuid": "d107d402-7a72-4c77-99c2-d77542803d4c",
+      "from": [
+        9.05,
+        12.05,
+        8.99
+      ],
+      "to": [
+        9.45,
+        12.45,
+        9.02
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved cheek",
+      "type": "cube",
+      "uuid": "7fcf7339-d0b6-4ea2-ba48-21df989f3495",
+      "from": [
+        8.55,
+        11.25,
+        8.9
+      ],
+      "to": [
+        9.95,
+        11.8,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Brow bridge",
+      "type": "cube",
+      "uuid": "f092e4c8-a180-492e-b61f-cda3a3daf3a9",
+      "from": [
+        7.3,
+        12.4,
+        8.9
+      ],
+      "to": [
+        8.7,
+        13.65,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Long carved nose",
+      "type": "cube",
+      "uuid": "3a794b73-ad32-433f-9afd-301648d3cc97",
+      "from": [
+        7.65,
+        10.95,
+        8.9
+      ],
+      "to": [
+        8.35,
+        12.5,
+        9.35
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Mask side ridge",
+      "type": "cube",
+      "uuid": "44333c9d-0fc6-4088-a66e-5198606245e6",
+      "from": [
+        5.85,
+        11.7,
+        8.9
+      ],
+      "to": [
+        6.25,
+        13.5,
+        9.15
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Mask side ridge",
+      "type": "cube",
+      "uuid": "7b554d1b-53c7-467b-8014-ccb70d2967ca",
+      "from": [
+        9.75,
+        11.7,
+        8.9
+      ],
+      "to": [
+        10.149999999999999,
+        13.5,
+        9.15
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Crown thin wrap",
+      "type": "cube",
+      "uuid": "fa51f8ca-1bde-401e-878c-985dac860c3b",
+      "from": [
+        5.85,
+        13.65,
+        7.02
+      ],
+      "to": [
+        10.15,
+        14.05,
+        9.12
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Crown raised center",
+      "type": "cube",
+      "uuid": "ab390b07-8d0f-4c51-b556-69ed064c35aa",
+      "from": [
+        6.8,
+        14.05,
+        8.8
+      ],
+      "to": [
+        9.2,
+        14.3,
+        9.12
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Forehead gold frame",
+      "type": "cube",
+      "uuid": "843901cc-85a1-468e-a971-612791d4620d",
+      "from": [
+        7.5,
+        13.1,
+        9.12
+      ],
+      "to": [
+        8.5,
+        14.7,
+        9.3
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Forehead blue inset",
+      "type": "cube",
+      "uuid": "f888e974-cddb-440d-b902-fd96c695779b",
+      "from": [
+        7.7,
+        13.35,
+        9.3
+      ],
+      "to": [
+        8.3,
+        14.35,
+        9.42
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Soul channel",
+      "type": "cube",
+      "uuid": "afed849d-0f53-4c4e-abb7-584fb533e83a",
+      "from": [
+        7.35,
+        8.4,
+        8.81
+      ],
+      "to": [
+        8.65,
+        10.95,
+        8.91
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            19,
+            27,
+            23,
+            30
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Channel soul 0",
+      "type": "cube",
+      "uuid": "42fcddec-ae31-4953-906d-c439b60293fa",
+      "from": [
+        7.8,
+        10.5,
+        8.92
+      ],
+      "to": [
+        8.1,
+        10.8,
+        9.02
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Channel soul 1",
+      "type": "cube",
+      "uuid": "4de091d9-2388-453b-a794-6e36a3aab7db",
+      "from": [
+        8.15,
+        10,
+        8.92
+      ],
+      "to": [
+        8.5,
+        10.35,
+        9.02
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Channel soul 2",
+      "type": "cube",
+      "uuid": "7c86a305-6c24-4793-9f68-19f21e485873",
+      "from": [
+        7.55,
+        9.55,
+        8.92
+      ],
+      "to": [
+        7.85,
+        9.850000000000001,
+        9.02
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Channel soul 3",
+      "type": "cube",
+      "uuid": "dc4eae61-41b0-40bd-85a8-bb719c782791",
+      "from": [
+        7.9,
+        9.05,
+        8.92
+      ],
+      "to": [
+        8.4,
+        9.55,
+        9.02
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart backing 0",
+      "type": "cube",
+      "uuid": "1716fa4c-7bbf-4784-bdb8-772102cc26de",
+      "from": [
+        7.45,
+        5.2700000000000005,
+        8.82
+      ],
+      "to": [
+        8.55,
+        5.85,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart backing 1",
+      "type": "cube",
+      "uuid": "a39e1042-16ca-4f60-8c76-428a0fdda662",
+      "from": [
+        7.1,
+        5.85,
+        8.82
+      ],
+      "to": [
+        8.9,
+        6.25,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart backing 2",
+      "type": "cube",
+      "uuid": "9bcbd671-e971-49e3-8533-ba467aa0e083",
+      "from": [
+        6.75,
+        6.25,
+        8.82
+      ],
+      "to": [
+        9.25,
+        6.65,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart backing 3",
+      "type": "cube",
+      "uuid": "bf55b8a3-fead-4e64-9849-b6a3fbbcb3cb",
+      "from": [
+        6.4,
+        6.65,
+        8.82
+      ],
+      "to": [
+        9.6,
+        7.05,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart backing 4",
+      "type": "cube",
+      "uuid": "934a107b-b7b2-4056-a5d7-fcf04c0a58e3",
+      "from": [
+        6.15,
+        7.05,
+        8.82
+      ],
+      "to": [
+        9.85,
+        7.45,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart backing 5",
+      "type": "cube",
+      "uuid": "02a11d40-a6e5-4fc5-b79c-59706c8aea81",
+      "from": [
+        6.0,
+        7.45,
+        8.82
+      ],
+      "to": [
+        10.0,
+        7.85,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart backing 6",
+      "type": "cube",
+      "uuid": "faa95677-217e-4aad-aa4d-c2d5ca82687e",
+      "from": [
+        6.0,
+        7.85,
+        8.82
+      ],
+      "to": [
+        10.0,
+        8.25,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart lobe frame",
+      "type": "cube",
+      "uuid": "1820ea49-56fe-47f8-8491-a2441cf5b9ab",
+      "from": [
+        6.3999999999999995,
+        8.25,
+        8.82
+      ],
+      "to": [
+        7.7,
+        8.65,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart lobe frame",
+      "type": "cube",
+      "uuid": "b7a9acae-b18f-4163-a0bb-a2bdf6f7861c",
+      "from": [
+        8.299999999999999,
+        8.25,
+        8.82
+      ],
+      "to": [
+        9.6,
+        8.65,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 0",
+      "type": "cube",
+      "uuid": "78313b41-456d-46f1-9d08-ea81bdd17827",
+      "from": [
+        7.65,
+        5.45,
+        9.21
+      ],
+      "to": [
+        8.35,
+        5.85,
+        9.3
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            23.61111111111111,
+            25.463087248322147,
+            24.38888888888889,
+            26.0
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 1",
+      "type": "cube",
+      "uuid": "13ce98c1-4743-4f6e-977f-dc056a168a14",
+      "from": [
+        7.3,
+        5.85,
+        9.21
+      ],
+      "to": [
+        8.7,
+        6.25,
+        9.3
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            23.22222222222222,
+            24.926174496644293,
+            24.77777777777778,
+            25.463087248322147
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 2",
+      "type": "cube",
+      "uuid": "61887c19-704a-4ebd-81b7-68d894819800",
+      "from": [
+        6.95,
+        6.25,
+        9.21
+      ],
+      "to": [
+        9.05,
+        6.65,
+        9.3
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22.833333333333332,
+            24.389261744966444,
+            25.166666666666668,
+            24.926174496644293
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 3",
+      "type": "cube",
+      "uuid": "23dc8bbd-d50e-4da4-9fb7-b958337bbf51",
+      "from": [
+        6.6,
+        6.65,
+        9.21
+      ],
+      "to": [
+        9.4,
+        7.05,
+        9.3
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22.444444444444443,
+            23.85234899328859,
+            25.555555555555557,
+            24.389261744966444
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 4",
+      "type": "cube",
+      "uuid": "49beb30d-109b-4145-a104-a96111c37f30",
+      "from": [
+        6.35,
+        7.05,
+        9.21
+      ],
+      "to": [
+        9.65,
+        7.45,
+        9.3
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22.166666666666664,
+            23.315436241610737,
+            25.833333333333332,
+            23.85234899328859
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 5",
+      "type": "cube",
+      "uuid": "c5cccdc5-7fce-48c2-9d32-69574103e0de",
+      "from": [
+        6.2,
+        7.45,
+        9.21
+      ],
+      "to": [
+        9.8,
+        7.85,
+        9.3
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22.0,
+            22.778523489932887,
+            26.0,
+            23.315436241610737
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 6",
+      "type": "cube",
+      "uuid": "542e4940-cdc0-4ea7-8273-2a64e5ed302f",
+      "from": [
+        6.2,
+        7.85,
+        9.21
+      ],
+      "to": [
+        9.8,
+        8.25,
+        9.3
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22.0,
+            22.241610738255034,
+            26.0,
+            22.778523489932887
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart crystal lobe",
+      "type": "cube",
+      "uuid": "2bac4d4b-dd7c-4a5c-9cdb-3d4e93ff509d",
+      "from": [
+        6.6,
+        8.25,
+        9.21
+      ],
+      "to": [
+        7.5,
+        8.43,
+        9.3
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22.444444444444443,
+            22.0,
+            23.444444444444443,
+            22.241610738255034
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart crystal lobe",
+      "type": "cube",
+      "uuid": "d702c5ae-b978-4f11-92c9-72500f8aff3a",
+      "from": [
+        8.5,
+        8.25,
+        9.21
+      ],
+      "to": [
+        9.399999999999999,
+        8.43,
+        9.3
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            24.555555555555557,
+            22.0,
+            25.555555555555554,
+            22.241610738255034
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart light facet 0",
+      "type": "cube",
+      "uuid": "ceeb5cbf-1cc6-46dd-b65c-a7ff7008cd48",
+      "from": [
+        7.8,
+        5.9,
+        9.31
+      ],
+      "to": [
+        8.2,
+        6.3,
+        9.34
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            23.77777777777778,
+            24.859060402684563,
+            24.22222222222222,
+            25.395973154362416
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart light facet 1",
+      "type": "cube",
+      "uuid": "1279ad5f-530c-475c-9f44-b7f230076f84",
+      "from": [
+        7.65,
+        6.3,
+        9.31
+      ],
+      "to": [
+        8.35,
+        6.7,
+        9.34
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            23.61111111111111,
+            24.32214765100671,
+            24.38888888888889,
+            24.859060402684563
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart light facet 2",
+      "type": "cube",
+      "uuid": "8b03699a-146b-4fb1-bdf0-5b628a7c6797",
+      "from": [
+        7.55,
+        6.7,
+        9.31
+      ],
+      "to": [
+        8.45,
+        7.1,
+        9.34
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            23.5,
+            23.78523489932886,
+            24.5,
+            24.32214765100671
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Heart light facet 3",
+      "type": "cube",
+      "uuid": "97d27a9e-d774-4690-b07c-633a66a310eb",
+      "from": [
+        7.65,
+        7.1,
+        9.31
+      ],
+      "to": [
+        8.35,
+        7.5,
+        9.34
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            23.61111111111111,
+            23.248322147651006,
+            24.38888888888889,
+            23.78523489932886
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            23,
+            23,
+            25,
+            25
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "450e6dd4-c927-4f3c-84ca-93fc1c0c6db2",
+      "from": [
+        5.6,
+        9.25,
+        8.65
+      ],
+      "to": [
+        6.1,
+        9.8,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "type": "cube",
+      "uuid": "08540dc7-ab6a-43c0-b08c-83454aaae7ed",
+      "from": [
+        5.7299999999999995,
+        9.25,
+        9.14
+      ],
+      "to": [
+        5.97,
+        9.635,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "7d3bf2f8-9924-4bc7-97a6-366deb018564",
+      "from": [
+        5.3,
+        8.65,
+        8.65
+      ],
+      "to": [
+        5.8,
+        9.25,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "type": "cube",
+      "uuid": "4884e8fc-cbb2-486d-9fe9-c3036f7cc69e",
+      "from": [
+        5.43,
+        8.65,
+        9.14
+      ],
+      "to": [
+        5.67,
+        9.07,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "9417d000-45fa-4cec-b248-527ab15007cd",
+      "from": [
+        5.4,
+        7.8,
+        8.65
+      ],
+      "to": [
+        5.9,
+        8.65,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "936a751e-0161-431a-a0ad-fc05c5d39f4c",
+      "from": [
+        5.7,
+        6.9,
+        8.65
+      ],
+      "to": [
+        6.2,
+        7.800000000000001,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "type": "cube",
+      "uuid": "818bace5-a6e9-4d45-ba77-931c89732703",
+      "from": [
+        5.83,
+        6.9,
+        9.14
+      ],
+      "to": [
+        6.07,
+        7.53,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "b0b491bf-4f99-41aa-b0e3-dc27b90baf1b",
+      "from": [
+        5.95,
+        6,
+        8.65
+      ],
+      "to": [
+        6.45,
+        6.9,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "95b3b712-cd31-43da-8ad2-5fb79e1f3783",
+      "from": [
+        6.25,
+        5.1,
+        8.65
+      ],
+      "to": [
+        6.75,
+        6.0,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "type": "cube",
+      "uuid": "b224acc3-0438-4035-a502-9497df43ac21",
+      "from": [
+        6.38,
+        5.1,
+        9.14
+      ],
+      "to": [
+        6.62,
+        5.7299999999999995,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "23a24e1d-2187-4a01-b31d-31027bc6a7ab",
+      "from": [
+        6.55,
+        4.2,
+        8.65
+      ],
+      "to": [
+        7.05,
+        5.1000000000000005,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "type": "cube",
+      "uuid": "df9c2ba2-5ee7-4b51-9fb8-a13cf9dc7395",
+      "from": [
+        6.68,
+        4.2,
+        9.14
+      ],
+      "to": [
+        6.92,
+        4.83,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "4b601fda-6493-4b59-9ad1-ede00303ca26",
+      "from": [
+        9.9,
+        9.25,
+        8.65
+      ],
+      "to": [
+        10.4,
+        9.8,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "type": "cube",
+      "uuid": "64d1aed7-8e06-4ccb-b18c-11f53e702884",
+      "from": [
+        10.030000000000001,
+        9.25,
+        9.14
+      ],
+      "to": [
+        10.27,
+        9.635,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "5fe0b1da-3776-4d78-b454-0a102abc3793",
+      "from": [
+        10.2,
+        8.65,
+        8.65
+      ],
+      "to": [
+        10.7,
+        9.25,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "type": "cube",
+      "uuid": "8f7ff198-ddd7-46ac-adc1-aab7f83142fb",
+      "from": [
+        10.33,
+        8.65,
+        9.14
+      ],
+      "to": [
+        10.569999999999999,
+        9.07,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "9e5b40bb-d677-4cea-b2de-baf3c21ca782",
+      "from": [
+        10.1,
+        7.8,
+        8.65
+      ],
+      "to": [
+        10.6,
+        8.65,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "aa52fe3e-d8c1-4b12-874d-f7474c839d00",
+      "from": [
+        9.8,
+        6.9,
+        8.65
+      ],
+      "to": [
+        10.3,
+        7.800000000000001,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "type": "cube",
+      "uuid": "b97da4a5-9046-4c23-a7ff-fbb5f86127a8",
+      "from": [
+        9.930000000000001,
+        6.9,
+        9.14
+      ],
+      "to": [
+        10.17,
+        7.53,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "c41670be-5755-4714-9790-d34b143b8e7e",
+      "from": [
+        9.55,
+        6,
+        8.65
+      ],
+      "to": [
+        10.05,
+        6.9,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "181c0536-7b28-4133-890d-4fc5d9396451",
+      "from": [
+        9.25,
+        5.1,
+        8.65
+      ],
+      "to": [
+        9.75,
+        6.0,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "type": "cube",
+      "uuid": "b083ed56-bc6d-4210-be79-baa98c09bf2d",
+      "from": [
+        9.38,
+        5.1,
+        9.14
+      ],
+      "to": [
+        9.62,
+        5.7299999999999995,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "type": "cube",
+      "uuid": "cc477c5c-c6aa-408b-b1d3-d12059c24bd9",
+      "from": [
+        8.95,
+        4.2,
+        8.65
+      ],
+      "to": [
+        9.45,
+        5.1000000000000005,
+        9.13
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            18,
+            18,
+            24,
+            21
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "type": "cube",
+      "uuid": "8df6aa7e-776f-45d4-ba8b-2292a40ee89d",
+      "from": [
+        9.08,
+        4.2,
+        9.14
+      ],
+      "to": [
+        9.319999999999999,
+        4.83,
+        9.2
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower seal frame",
+      "type": "cube",
+      "uuid": "d0479699-c7f2-43cd-9980-9b52fb92fad3",
+      "from": [
+        7.55,
+        2.9,
+        8.82
+      ],
+      "to": [
+        8.45,
+        4.6,
+        9.08
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower seal soul",
+      "type": "cube",
+      "uuid": "b8aca8fd-26ee-4e51-b819-9ff553a3f643",
+      "from": [
+        7.75,
+        3.15,
+        9.09
+      ],
+      "to": [
+        8.25,
+        4.3,
+        9.18
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Tip gold inlay",
+      "type": "cube",
+      "uuid": "b073e47a-b838-4373-8744-5f2d38efbe61",
+      "from": [
+        7.85,
+        0.7,
+        8.82
+      ],
+      "to": [
+        8.15,
+        2.9,
+        8.97
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Back fine spine",
+      "type": "cube",
+      "uuid": "efc4d650-9e6d-4d7b-be09-69a7d741894e",
+      "from": [
+        7.85,
+        2,
+        6.98
+      ],
+      "to": [
+        8.15,
+        13.7,
+        7.1
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            21,
+            12,
+            26,
+            15
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Back inset gem",
+      "type": "cube",
+      "uuid": "0966f6f8-a413-45d9-96e1-abf5495d7d0d",
+      "from": [
+        7.65,
+        9.2,
+        6.87
+      ],
+      "to": [
+        8.35,
+        10.3,
+        6.98
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            22,
+            22,
+            26,
+            26
+          ],
+          "texture": 0
+        }
+      }
+    }
+  ],
+  "outliner": [
+    "c2dd718f-eaaa-4b4c-8d4e-0040ff4419a3",
+    "61f3a09a-e388-46d5-8bc4-59a8cf7fc99f",
+    "f6e0bdc8-5c15-4862-8d14-dee6861f58f3",
+    "a59e0e64-2649-4ade-8e6b-2ccad5698dff",
+    "a37b83c3-b63b-47db-b2ac-e1ef883ff351",
+    "22bcd664-c149-4993-b744-f7ffde5c1235",
+    "7e7f9da0-ef65-42b9-bcff-80419daf4a15",
+    "338e0043-fcdf-4fec-8e70-cdc39aa2162a",
+    "565008f9-2580-421c-af88-e57edd8c0e5c",
+    "d81ef107-aed5-41b5-8f04-b13739b0ece6",
+    "7fc93467-0421-4454-b467-ecde732d4792",
+    "465799a5-7193-4a63-8206-46d8c166f2b8",
+    "b0d51e9e-c758-4548-a982-dfe47c78f803",
+    "140c8932-54ca-41b2-bf08-04d6089a1687",
+    "e364fb64-0fc3-42d7-a4d2-050108afbbd0",
+    "56323d43-d4b9-4954-bd4f-7b7a6f92814a",
+    "2864347b-031d-406e-8d1d-f3f04473bc21",
+    "b0749129-8d2e-4387-8ebe-a650cc94b828",
+    "707909c1-edd6-41c3-8b65-6d547e16c8c6",
+    "d107d402-7a72-4c77-99c2-d77542803d4c",
+    "7fcf7339-d0b6-4ea2-ba48-21df989f3495",
+    "f092e4c8-a180-492e-b61f-cda3a3daf3a9",
+    "3a794b73-ad32-433f-9afd-301648d3cc97",
+    "44333c9d-0fc6-4088-a66e-5198606245e6",
+    "7b554d1b-53c7-467b-8014-ccb70d2967ca",
+    "fa51f8ca-1bde-401e-878c-985dac860c3b",
+    "ab390b07-8d0f-4c51-b556-69ed064c35aa",
+    "843901cc-85a1-468e-a971-612791d4620d",
+    "f888e974-cddb-440d-b902-fd96c695779b",
+    "afed849d-0f53-4c4e-abb7-584fb533e83a",
+    "42fcddec-ae31-4953-906d-c439b60293fa",
+    "4de091d9-2388-453b-a794-6e36a3aab7db",
+    "7c86a305-6c24-4793-9f68-19f21e485873",
+    "dc4eae61-41b0-40bd-85a8-bb719c782791",
+    "1716fa4c-7bbf-4784-bdb8-772102cc26de",
+    "a39e1042-16ca-4f60-8c76-428a0fdda662",
+    "9bcbd671-e971-49e3-8533-ba467aa0e083",
+    "bf55b8a3-fead-4e64-9849-b6a3fbbcb3cb",
+    "934a107b-b7b2-4056-a5d7-fcf04c0a58e3",
+    "02a11d40-a6e5-4fc5-b79c-59706c8aea81",
+    "faa95677-217e-4aad-aa4d-c2d5ca82687e",
+    "1820ea49-56fe-47f8-8491-a2441cf5b9ab",
+    "b7a9acae-b18f-4163-a0bb-a2bdf6f7861c",
+    "78313b41-456d-46f1-9d08-ea81bdd17827",
+    "13ce98c1-4743-4f6e-977f-dc056a168a14",
+    "61887c19-704a-4ebd-81b7-68d894819800",
+    "23dc8bbd-d50e-4da4-9fb7-b958337bbf51",
+    "49beb30d-109b-4145-a104-a96111c37f30",
+    "c5cccdc5-7fce-48c2-9d32-69574103e0de",
+    "542e4940-cdc0-4ea7-8273-2a64e5ed302f",
+    "2bac4d4b-dd7c-4a5c-9cdb-3d4e93ff509d",
+    "d702c5ae-b978-4f11-92c9-72500f8aff3a",
+    "ceeb5cbf-1cc6-46dd-b65c-a7ff7008cd48",
+    "1279ad5f-530c-475c-9f44-b7f230076f84",
+    "8b03699a-146b-4fb1-bdf0-5b628a7c6797",
+    "97d27a9e-d774-4690-b07c-633a66a310eb",
+    "450e6dd4-c927-4f3c-84ca-93fc1c0c6db2",
+    "08540dc7-ab6a-43c0-b08c-83454aaae7ed",
+    "7d3bf2f8-9924-4bc7-97a6-366deb018564",
+    "4884e8fc-cbb2-486d-9fe9-c3036f7cc69e",
+    "9417d000-45fa-4cec-b248-527ab15007cd",
+    "936a751e-0161-431a-a0ad-fc05c5d39f4c",
+    "818bace5-a6e9-4d45-ba77-931c89732703",
+    "b0b491bf-4f99-41aa-b0e3-dc27b90baf1b",
+    "95b3b712-cd31-43da-8ad2-5fb79e1f3783",
+    "b224acc3-0438-4035-a502-9497df43ac21",
+    "23a24e1d-2187-4a01-b31d-31027bc6a7ab",
+    "df9c2ba2-5ee7-4b51-9fb8-a13cf9dc7395",
+    "4b601fda-6493-4b59-9ad1-ede00303ca26",
+    "64d1aed7-8e06-4ccb-b18c-11f53e702884",
+    "5fe0b1da-3776-4d78-b454-0a102abc3793",
+    "8f7ff198-ddd7-46ac-adc1-aab7f83142fb",
+    "9e5b40bb-d677-4cea-b2de-baf3c21ca782",
+    "aa52fe3e-d8c1-4b12-874d-f7474c839d00",
+    "b97da4a5-9046-4c23-a7ff-fbb5f86127a8",
+    "c41670be-5755-4714-9790-d34b143b8e7e",
+    "181c0536-7b28-4133-890d-4fc5d9396451",
+    "b083ed56-bc6d-4210-be79-baa98c09bf2d",
+    "cc477c5c-c6aa-408b-b1d3-d12059c24bd9",
+    "8df6aa7e-776f-45d4-ba8b-2292a40ee89d",
+    "d0479699-c7f2-43cd-9980-9b52fb92fad3",
+    "b8aca8fd-26ee-4e51-b819-9ff553a3f643",
+    "b073e47a-b838-4373-8744-5f2d38efbe61",
+    "efc4d650-9e6d-4d7b-be09-69a7d741894e",
+    "0966f6f8-a413-45d9-96e1-abf5495d7d0d"
+  ],
+  "textures": [
+    {
+      "path": "",
+      "name": "return_heart.png",
+      "folder": "item",
+      "namespace": "lastbreath",
+      "id": "0",
+      "uuid": "e93ba1d0-f2f5-4c8d-8486-49e4996d4d66",
+      "mode": "bitmap",
+      "source": "data:image/png;base64,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",
+      "width": 64,
+      "height": 64,
+      "uv_width": 64,
+      "uv_height": 64
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        12,
+        -22,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.85,
+        0.85,
+        0.85
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        1
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        1
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -15,
+        0
+      ],
+      "translation": [
+        1,
+        1,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        15,
+        0
+      ],
+      "translation": [
+        1,
+        1,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  }
+}

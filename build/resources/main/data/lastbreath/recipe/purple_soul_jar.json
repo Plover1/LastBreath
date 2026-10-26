@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "lastbreath:empty_soul_jar",
+    "lastbreath:purple_soul"
+  ],
+  "result": {
+    "id": "lastbreath:purple_soul_jar",
+    "count": 1
+  }
+}

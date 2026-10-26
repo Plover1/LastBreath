@@ -1,0 +1,14 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "lastbreath:soul_reader": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 0,
+      "minecraft:leave_game": 2,
+      "minecraft:deaths": 1,
+      "minecraft:time_since_death": 0
+    }
+  },
+  "DataVersion": 5023
+}

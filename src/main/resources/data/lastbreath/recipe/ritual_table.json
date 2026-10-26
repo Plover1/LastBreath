@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GJG",
+    "PBP",
+    "PPP"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "J": "lastbreath:soul_jar",
+    "P": "minecraft:dark_oak_planks",
+    "B": "minecraft:book"
+  },
+  "result": {
+    "id": "lastbreath:ritual_table",
+    "count": 1
+  }
+}

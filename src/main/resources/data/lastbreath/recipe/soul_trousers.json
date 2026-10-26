@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "LLL",
+    "LBL",
+    "L L"
+  ],
+  "key": {
+    "L": "minecraft:leather",
+    "B": "lastbreath:soul_jar"
+  },
+  "result": {
+    "id": "lastbreath:soul_trousers",
+    "count": 1
+  }
+}

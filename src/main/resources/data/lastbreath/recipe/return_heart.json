@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GDG",
+    "HJH",
+    "GDG"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "D": "minecraft:diamond",
+    "H": "minecraft:ghast_tear",
+    "J": "lastbreath:red_soul_jar"
+  },
+  "result": {
+    "id": "lastbreath:return_heart",
+    "count": 1
+  }
+}

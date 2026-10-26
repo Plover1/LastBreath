@@ -1,0 +1,201 @@
+---- Minecraft Crash Report ----
+// Daisy, daisy...
+
+Time: 2026-10-19 12:46:20
+Description: Unexpected error
+
+java.lang.IllegalStateException: Cannot get config value before config is loaded.
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:534) ~[guava-33.6.0-jre.jar:?] {}
+	at TRANSFORMER/neoforge@26.3.0.90/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.getRaw(ModConfigSpec.java:1244) ~[neoforge-26.3.0.90-universal.jar:?] {}
+	at TRANSFORMER/neoforge@26.3.0.90/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.get(ModConfigSpec.java:1231) ~[neoforge-26.3.0.90-universal.jar:?] {}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.SoulProgress.cost(SoulProgress.java:27) ~[main/:?] {}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.SoulProgress.affordable(SoulProgress.java:31) ~[main/:?] {}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.client.SoulTreeScreen.updateButtons(SoulTreeScreen.java:43) ~[main/:?] {}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.client.SoulTreeScreen.init(SoulTreeScreen.java:38) ~[main/:?] {}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.gui.screens.Screen.init(Screen.java:341) ~[minecraft-patched-26.3.0.90.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.ClientStartupTest$1.init(ClientStartupTest.java:31) ~[main/:?] {}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.gui.screens.Screen.init(Screen.java:341) ~[minecraft-patched-26.3.0.90.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.gui.Gui.setScreen(Gui.java:281) ~[minecraft-patched-26.3.0.90.jar:?] {}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.ClientStartupTest.tick(ClientStartupTest.java:30) ~[main/:?] {}
+	at net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar:?] {}
+	at net.neoforged.bus.EventBus.post(EventBus.java:328) ~[bus-8.0.5.jar:?] {}
+	at TRANSFORMER/neoforge@26.3.0.90/net.neoforged.neoforge.client.ClientHooks.fireClientTickPost(ClientHooks.java:884) ~[neoforge-26.3.0.90-universal.jar:?] {}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.Minecraft.tick(Minecraft.java:1948) [minecraft-patched-26.3.0.90.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.Minecraft.runTick(Minecraft.java:1215) [minecraft-patched-26.3.0.90.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.Minecraft.run(Minecraft.java:938) [minecraft-patched-26.3.0.90.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.main.Main.main(Main.java:294) [minecraft-patched-26.3.0.90.jar:?] {}
+	at net.neoforged.fml.startup.Client.main(Client.java:19) [loader-12.0.12.jar:12.0] {}
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?] {}
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?] {}
+	at net.neoforged.devlaunch.Main.main(Main.java:57) [DevLaunch-1.0.2.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:534) ~[guava-33.6.0-jre.jar:?] {}
+	at TRANSFORMER/neoforge@26.3.0.90/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.getRaw(ModConfigSpec.java:1244) ~[neoforge-26.3.0.90-universal.jar:?] {}
+	at TRANSFORMER/neoforge@26.3.0.90/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.get(ModConfigSpec.java:1231) ~[neoforge-26.3.0.90-universal.jar:?] {}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.SoulProgress.cost(SoulProgress.java:27) ~[main/:?] {}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.SoulProgress.affordable(SoulProgress.java:31) ~[main/:?] {}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.client.SoulTreeScreen.updateButtons(SoulTreeScreen.java:43) ~[main/:?] {}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.client.SoulTreeScreen.init(SoulTreeScreen.java:38) ~[main/:?] {}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.gui.screens.Screen.init(Screen.java:341) ~[minecraft-patched-26.3.0.90.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.ClientStartupTest$1.init(ClientStartupTest.java:31) ~[main/:?] {}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.gui.screens.Screen.init(Screen.java:341) ~[minecraft-patched-26.3.0.90.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.gui.Gui.setScreen(Gui.java:281) ~[minecraft-patched-26.3.0.90.jar:?] {}
+	at TRANSFORMER/lastbreath@0.9.0/me.vlad.lastbreath.ClientStartupTest.tick(ClientStartupTest.java:30) ~[main/:?] {}
+	at net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar:?] {}
+	at net.neoforged.bus.EventBus.post(EventBus.java:328) ~[bus-8.0.5.jar:?] {}
+	at TRANSFORMER/neoforge@26.3.0.90/net.neoforged.neoforge.client.ClientHooks.fireClientTickPost(ClientHooks.java:884) ~[neoforge-26.3.0.90-universal.jar:?] {}
+-- Uptime --
+Details:
+	JVM uptime: 33.534s
+	Wall uptime: 10.201s
+	High-res time: 31.290s
+	Client ticks: 102 ticks / 5.100s
+Stacktrace:
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.Minecraft.fillReport(Minecraft.java:2496) [minecraft-patched-26.3.0.90.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.Minecraft.emergencySaveAndCrash(Minecraft.java:980) [minecraft-patched-26.3.0.90.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.Minecraft.run(Minecraft.java:961) [minecraft-patched-26.3.0.90.jar:?] {neoforge:access_transformer}
+	at TRANSFORMER/minecraft@26.3/net.minecraft.client.main.Main.main(Main.java:294) [minecraft-patched-26.3.0.90.jar:?] {}
+	at net.neoforged.fml.startup.Client.main(Client.java:19) [loader-12.0.12.jar:12.0] {}
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?] {}
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?] {}
+	at net.neoforged.devlaunch.Main.main(Main.java:57) [DevLaunch-1.0.2.jar:?] {}
+
+
+-- Window --
+Details:
+	Error section: Pre render
+
+-- Last reload --
+Details:
+	Reload number: 1
+	Reload reason: initial
+	Finished: Yes
+	Packs: vanilla, vanilla, mod_resources, mod/lastbreath, mod/mezz_config, mod/neoforge, mod/jei
+
+-- System Details --
+Details:
+	Minecraft Version: 26.3
+	Minecraft Version ID: 26.3
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 25.0.4, Eclipse Adoptium
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Eclipse Adoptium
+	Memory: 141123288 bytes (134 MiB) / 450887680 bytes (430 MiB) up to 4118806528 bytes (3928 MiB)
+	Memory (heap): init: 246MiB, used: 294MiB, committed: 430MiB, max: 3928MiB
+	Memory (non-heap): init: 007MiB, used: 184MiB, committed: 187MiB, max: 000MiB
+	CPUs: 12
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 5 5500U with Radeon Graphics         
+	Identifier: AuthenticAMD Family 23 Model 104 Stepping 1
+	Microarchitecture: unknown
+	Frequency (GHz): 2.10
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: AMD Radeon(TM) Graphics
+	Graphics card #0 vendor: Advanced Micro Devices, Inc.
+	Graphics card #0 VRAM (MiB): 512.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 31.0.21924.61
+	Graphics card #1 name: NVIDIA GeForce GTX 1650
+	Graphics card #1 vendor: NVIDIA
+	Graphics card #1 VRAM (MiB): 4096.00
+	Graphics card #1 deviceId: VideoController2
+	Graphics card #1 versionInfo: 32.0.16.1742
+	Memory slot #0 capacity (MiB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MiB): 53921.66
+	Virtual memory used (MiB): 53035.27
+	Swap memory total (MiB): 38215.10
+	Swap memory used (MiB): 0.00
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 32346.56, total: 479475.06
+	Space in storage for workdir (MiB): available: 32346.56, total: 479475.06
+	Operating System Version: Microsoft Windows 11 build 26300
+	Process Elevated: false
+	Process Loads: Uptime: 33s, user: 78s (235.82%), kernel: 14s (42.43%), total: 92s (278.25%)
+	Process Virtual Size (MiB): 2045.81
+	Process Resident Size (MiB): 968.23
+	JVM Flags: 1 total; -XX:StackShadowPages=32
+	Debug Flags: 0 total; 
+	Launched Version: 26.3.0.90
+	Backend library: LWJGL version 3.4.3+4
+	Window size: 1920x1080
+	Surface Info: FIFO, 1921 x 1080
+	SDL Platform: Windows
+	Graphics Device: NVIDIA GeForce GTX 1650/PCIe/SSE2
+	Graphics Backend: OpenGL
+	Graphics Vendor: NVIDIA Corporation
+	Graphics Drivers: 3.3.0 NVIDIA 617.42
+	Graphics Device Extensions: GL_ARB_multi_draw_indirect, GL_ARB_shader_draw_parameters, GL_ARB_base_instance, GL_KHR_debug, GL_ARB_draw_indirect, GL_ARB_clip_control, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access, GL_EXT_texture_filter_anisotropic
+	Graphics Device Type: OTHER
+	Graphics Device Features: DeviceFeatures[wireframeFillMode=true, shaderDrawParameters=true, multiDrawDirectInterleaved=false, multiDrawDirectSeparate=true, multiDrawIndirect=true, drawIndirect=true, nonZeroFirstInstance=true, persistentMapping=false]
+	GL debug messages: 
+	Is Modded: Definitely; Client brand changed to 'neoforge'
+	Universe: 400921fb54442d18
+	Type: Client
+	Transparency: regular
+	Render Distance: 12/12 chunks
+	Narrator config: OFF
+	Narrator status: true
+	Resource Packs: vanilla, mod_resources, mod/lastbreath, mod/mezz_config, mod/neoforge (incompatible), mod/jei (incompatible)
+	Sound Cache: 0 bytes in 0 buffers
+	Current Language: uk_ua
+	Locale: uk_UA
+	System encoding: Cp1251
+	File encoding: UTF-8
+	CPU: 12x AMD Ryzen 5 5500U with Radeon Graphics 
+	Class Processors: 
+		04,76%: neoforge:access_transformer
+		00,00%: neoforge:neoforge_dev_dist_cleaner
+		00,00%: neoforge:mixin_frame_context
+		00,00%: neoforge:computing_frames (marker)
+		00,00%: neoforge:runtime_enum_extender
+		00,07%: neoforge:mixin
+		00,00%: neoforge:simple_processors_default (marker)
+		00,01%: neoforge.coremods:field_to_getter.net.minecraft.world.level.biome.biome
+		00,01%: neoforge.coremods:field_to_getter.net.minecraft.world.level.block.flowerpotblock
+		00,01%: neoforge.coremods:field_to_getter.net.minecraft.world.level.levelgen.structure.structure
+		00,23%: neoforge.coremods:method_redirector
+	Mod List: 
+		jei-26.3-neoforge-31.16.0.84.jar                  |Just Enough Items             |jei                           |31.16.0.84          |Manifest: f969f72fb1ec2edf6e98cefb6d3dad72e015f24537b0e9899b50c7d22b2eaa7e
+		main                                              |Last Breath                   |lastbreath                    |0.9.0               |Manifest: NOSIGNATURE
+		mezz_config-26.3-neoforge-0.6.6.jar               |MezzConfig                    |mezz_config                   |0.6.6               |Manifest: 16f9731af2228804a302182154fee69f301eb40c40337d35a4475ef12818a483
+		minecraft-patched-26.3.0.90.jar                   |Minecraft                     |minecraft                     |26.3                |Manifest: NOSIGNATURE
+		neoforge-26.3.0.90-universal.jar                  |NeoForge                      |neoforge                      |26.3.0.90           |Manifest: NOSIGNATURE
+	Crash Report UUID: e531a9f6-1793-42a3-a0cd-505092a92c97
+	FML: 12.0.12
+	NeoForge: 26.3.0.90
+	Class Processors: 
+		04,76%: neoforge:access_transformer
+		00,00%: neoforge:neoforge_dev_dist_cleaner
+		00,00%: neoforge:mixin_frame_context
+		00,00%: neoforge:computing_frames (marker)
+		00,00%: neoforge:runtime_enum_extender
+		00,07%: neoforge:mixin
+		00,00%: neoforge:simple_processors_default (marker)
+		00,01%: neoforge.coremods:field_to_getter.net.minecraft.world.level.biome.biome
+		00,01%: neoforge.coremods:field_to_getter.net.minecraft.world.level.block.flowerpotblock
+		00,01%: neoforge.coremods:field_to_getter.net.minecraft.world.level.levelgen.structure.structure
+		00,23%: neoforge.coremods:method_redirector
+	Mod List: 
+		jei-26.3-neoforge-31.16.0.84.jar                  |Just Enough Items             |jei                           |31.16.0.84          |Manifest: f969f72fb1ec2edf6e98cefb6d3dad72e015f24537b0e9899b50c7d22b2eaa7e
+		main                                              |Last Breath                   |lastbreath                    |0.9.0               |Manifest: NOSIGNATURE
+		mezz_config-26.3-neoforge-0.6.6.jar               |MezzConfig                    |mezz_config                   |0.6.6               |Manifest: 16f9731af2228804a302182154fee69f301eb40c40337d35a4475ef12818a483
+		minecraft-patched-26.3.0.90.jar                   |Minecraft                     |minecraft                     |26.3                |Manifest: NOSIGNATURE
+		neoforge-26.3.0.90-universal.jar                  |NeoForge                      |neoforge                      |26.3.0.90           |Manifest: NOSIGNATURE
+	Crash Report UUID: 7f54ca83-c9f9-4c0c-95fa-82cd308cea0a
+	FML: 12.0.12
+	NeoForge: 26.3.0.90

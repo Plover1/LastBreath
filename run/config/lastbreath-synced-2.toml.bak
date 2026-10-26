@@ -1,0 +1,137 @@
+#Only new deaths in Hardcore become spirits. Existing spirits remain spirits.
+hardcoreOnly = true
+#Health points paid by rescuer; 2 points = 1 heart. Must leave at least 1 point.
+# Default: 6.0
+# Range: 0.0 ~ 1000.0
+healthCost = 6.0
+#Additional health cost for each previous revival of the target.
+# Default: 0.0
+# Range: 0.0 ~ 100.0
+extraCostPerRevival = 0.0
+# Default: 8.0
+# Range: 1.0 ~ 1000.0
+returnHealth = 8.0
+# Default: 30
+# Range: 0 ~ 3600
+rescuerWeaknessSeconds = 30
+# Default: 60
+# Range: 0 ~ 3600
+returnedWeaknessSeconds = 60
+#Short damage protection after revival.
+# Default: 5
+# Range: 0 ~ 60
+graceSeconds = 5
+# Default: 8
+# Range: 1 ~ 32
+reviveRadius = 8
+#Subtle spirit particles.
+ghostParticles = true
+ritualParticles = true
+#Ritual sound multiplier; 0 mutes ritual sounds.
+# Default: 0.6
+# Range: 0.0 ~ 1.0
+ritualVolume = 0.6
+# Default: 0.05
+# Range: 0.0 ~ 1.0
+peacefulSoulChance = 0.05
+# Default: 0.05
+# Range: 0.0 ~ 1.0
+monsterSoulChance = 0.05
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+bossSoulChance = 1.0
+# Default: 0.025
+# Range: 0.0 ~ 1.0
+harvestBonusPerRank = 0.025
+requireExecutionerSword = true
+#Entity IDs. Boss category takes priority. Entity type tag lastbreath:bosses also supported.
+bossEntities = ["minecraft:ender_dragon", "minecraft:wither"]
+#Additional monster entity IDs; vanilla Enemy mobs and lastbreath:monsters tag also count.
+monsterEntities = []
+excludedSoulEntities = ["minecraft:armor_stand"]
+# Default: 1.0
+# Range: 0.1 ~ 100.0
+skillCostMultiplier = 1.0
+#Final powers require a boss kill; Soul Bond also requires a successful rescue.
+requireSkillTrials = true
+allowLivingRitual = true
+# Default: 4
+# Range: 1 ~ 30
+tableChannelSeconds = 4
+# Default: 1
+# Range: 0 ~ 100
+tableRedSoulCost = 1
+# Default: 120
+# Range: 10 ~ 600
+tableSessionSeconds = 120
+# Default: 60
+# Range: 1 ~ 3600
+advancedAbilityCooldownSeconds = 60
+# Default: 15
+# Range: 1 ~ 120
+borrowedTimeSeconds = 15
+# Default: 10
+# Range: 1 ~ 60
+echoSeconds = 10
+# Default: 30
+# Range: 1 ~ 300
+bondSeconds = 30
+# Default: 16
+# Range: 2 ~ 64
+bondRadius = 16
+enableEcho = true
+enableBorrowedTime = true
+enableSoulBond = true
+animateRitualsAndSkills = true
+enableSoulGearPowers = true
+# Default: 100
+# Range: 100 ~ 30000
+gearChargeCapacity = 100
+# Default: 10
+# Range: 1 ~ 100
+gearBlueSoulCharge = 10
+# Default: 25
+# Range: 1 ~ 100
+gearRedSoulCharge = 25
+# Default: 100
+# Range: 1 ~ 100
+gearPurpleSoulCharge = 100
+# Default: 1.0
+# Range: 0.1 ~ 100.0
+gearUpgradeCostMultiplier = 1.0
+# Default: 0.1
+# Range: 0.0 ~ 1.0
+gearHarvestExtraChance = 0.1
+# Default: 5
+# Range: 1 ~ 100
+gearHarvestChargeCost = 5
+# Default: 2.0
+# Range: 0.0 ~ 20.0
+gearHealHealth = 2.0
+# Default: 10
+# Range: 1 ~ 100
+gearHealChargeCost = 10
+# Default: 10
+# Range: 1 ~ 600
+gearHealCooldownSeconds = 10
+# Default: 4.0
+# Range: 1.0 ~ 100.0
+gearGuardMinimumDamage = 4.0
+# Default: 0.4
+# Range: 0.0 ~ 0.9
+gearGuardDamageReduction = 0.4
+# Default: 15
+# Range: 1 ~ 100
+gearGuardChargeCost = 15
+# Default: 30
+# Range: 1 ~ 600
+gearCloakCooldownSeconds = 30
+# Default: 6.0
+# Range: 1.0 ~ 20.0
+gearShroudHealthThreshold = 6.0
+# Default: 20
+# Range: 1 ~ 100
+gearShroudChargeCost = 20
+# Default: 5
+# Range: 1 ~ 30
+gearShroudDecoySeconds = 5

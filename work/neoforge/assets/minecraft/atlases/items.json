@@ -1,0 +1,10 @@
+{
+  "sources": [
+    {
+      "type": "neoforge:directory_paletted_permutations",
+      "palette_key": "minecraft:trim_base",
+      "palettes": "trim",
+      "textures": "trims/items"
+    }
+  ]
+}

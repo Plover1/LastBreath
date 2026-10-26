@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " R ",
+    "NSN",
+    " O "
+  ],
+  "key": {
+    "R": "lastbreath:red_soul_jar",
+    "N": "minecraft:netherite_scrap",
+    "S": "lastbreath:executioner_sword",
+    "O": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "lastbreath:soul_devourer",
+    "count": 1
+  }
+}

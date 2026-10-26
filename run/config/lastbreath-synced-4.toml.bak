@@ -1,0 +1,33 @@
+#Only new deaths in Hardcore become spirits. Existing spirits remain spirits.
+hardcoreOnly = true
+#Health points paid by rescuer; 2 points = 1 heart. Must leave at least 1 point.
+# Default: 6.0
+# Range: 0.0 ~ 1000.0
+healthCost = 6.0
+#Additional health cost for each previous revival of the target.
+# Default: 0.0
+# Range: 0.0 ~ 100.0
+extraCostPerRevival = 0.0
+# Default: 8.0
+# Range: 1.0 ~ 1000.0
+returnHealth = 8.0
+# Default: 30
+# Range: 0 ~ 3600
+rescuerWeaknessSeconds = 30
+# Default: 60
+# Range: 0 ~ 3600
+returnedWeaknessSeconds = 60
+#Short damage protection after revival.
+# Default: 5
+# Range: 0 ~ 60
+graceSeconds = 5
+# Default: 8
+# Range: 1 ~ 32
+reviveRadius = 8
+#Subtle spirit particles.
+ghostParticles = true
+ritualParticles = true
+#Ritual sound multiplier; 0 mutes ritual sounds.
+# Default: 0.6
+# Range: 0.0 ~ 1.0
+ritualVolume = 0.6

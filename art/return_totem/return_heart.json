@@ -1,0 +1,5997 @@
+{
+  "credit": "Siris102 — Last Breath",
+  "ambientocclusion": false,
+  "gui_light": "front",
+  "textures": {
+    "totem": "lastbreath:item/return_heart",
+    "particle": "lastbreath:item/return_heart"
+  },
+  "display": {
+    "gui": {
+      "rotation": [
+        12,
+        -22,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.85,
+        0.85,
+        0.85
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        1
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        1
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -15,
+        0
+      ],
+      "translation": [
+        1,
+        1,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        15,
+        0
+      ],
+      "translation": [
+        1,
+        1,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  "elements": [
+    {
+      "name": "Carved silhouette 00",
+      "from": [
+        7.65,
+        0.4,
+        7.1
+      ],
+      "to": [
+        8.35,
+        1.1,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 01",
+      "from": [
+        7.4,
+        1.1,
+        7.1
+      ],
+      "to": [
+        8.6,
+        2,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 02",
+      "from": [
+        7.15,
+        2,
+        7.1
+      ],
+      "to": [
+        8.85,
+        3,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 03",
+      "from": [
+        6.9,
+        3,
+        7.1
+      ],
+      "to": [
+        9.1,
+        4,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 04",
+      "from": [
+        6.6,
+        4,
+        7.1
+      ],
+      "to": [
+        9.4,
+        5,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 05",
+      "from": [
+        6.3,
+        5,
+        7.1
+      ],
+      "to": [
+        9.7,
+        6,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 06",
+      "from": [
+        6,
+        6,
+        7.1
+      ],
+      "to": [
+        10,
+        7,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 07",
+      "from": [
+        5.75,
+        7,
+        7.1
+      ],
+      "to": [
+        10.25,
+        8.8,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 08",
+      "from": [
+        5.45,
+        8.8,
+        7.1
+      ],
+      "to": [
+        10.55,
+        9.7,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 09",
+      "from": [
+        5.75,
+        9.7,
+        7.1
+      ],
+      "to": [
+        10.25,
+        10.2,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 10",
+      "from": [
+        6.35,
+        10.2,
+        7.1
+      ],
+      "to": [
+        9.65,
+        11.2,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 11",
+      "from": [
+        5.9,
+        11.2,
+        7.1
+      ],
+      "to": [
+        10.1,
+        13.9,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 12",
+      "from": [
+        6.15,
+        13.9,
+        7.1
+      ],
+      "to": [
+        9.85,
+        14.5,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved silhouette 13",
+      "from": [
+        6.65,
+        14.5,
+        7.1
+      ],
+      "to": [
+        9.35,
+        15,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Face recess",
+      "from": [
+        6.2,
+        11,
+        8.8
+      ],
+      "to": [
+        9.8,
+        13.6,
+        8.9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Recessed cyan eye",
+      "from": [
+        6.15,
+        11.85,
+        8.91
+      ],
+      "to": [
+        7.25,
+        12.7,
+        8.98
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Eye inner light",
+      "from": [
+        6.45,
+        12.05,
+        8.99
+      ],
+      "to": [
+        6.8500000000000005,
+        12.45,
+        9.02
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved cheek",
+      "from": [
+        5.95,
+        11.25,
+        8.9
+      ],
+      "to": [
+        7.3500000000000005,
+        11.8,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Recessed cyan eye",
+      "from": [
+        8.75,
+        11.85,
+        8.91
+      ],
+      "to": [
+        9.85,
+        12.7,
+        8.98
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Eye inner light",
+      "from": [
+        9.05,
+        12.05,
+        8.99
+      ],
+      "to": [
+        9.45,
+        12.45,
+        9.02
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved cheek",
+      "from": [
+        8.55,
+        11.25,
+        8.9
+      ],
+      "to": [
+        9.95,
+        11.8,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Brow bridge",
+      "from": [
+        7.3,
+        12.4,
+        8.9
+      ],
+      "to": [
+        8.7,
+        13.65,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Long carved nose",
+      "from": [
+        7.65,
+        10.95,
+        8.9
+      ],
+      "to": [
+        8.35,
+        12.5,
+        9.35
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Mask side ridge",
+      "from": [
+        5.85,
+        11.7,
+        8.9
+      ],
+      "to": [
+        6.25,
+        13.5,
+        9.15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Mask side ridge",
+      "from": [
+        9.75,
+        11.7,
+        8.9
+      ],
+      "to": [
+        10.149999999999999,
+        13.5,
+        9.15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Crown thin wrap",
+      "from": [
+        5.85,
+        13.65,
+        7.02
+      ],
+      "to": [
+        10.15,
+        14.05,
+        9.12
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Crown raised center",
+      "from": [
+        6.8,
+        14.05,
+        8.8
+      ],
+      "to": [
+        9.2,
+        14.3,
+        9.12
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Forehead gold frame",
+      "from": [
+        7.5,
+        13.1,
+        9.12
+      ],
+      "to": [
+        8.5,
+        14.7,
+        9.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Forehead blue inset",
+      "from": [
+        7.7,
+        13.35,
+        9.3
+      ],
+      "to": [
+        8.3,
+        14.35,
+        9.42
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Soul channel",
+      "from": [
+        7.35,
+        8.4,
+        8.81
+      ],
+      "to": [
+        8.65,
+        10.95,
+        8.91
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.75,
+            6.75,
+            5.75,
+            7.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Channel soul 0",
+      "from": [
+        7.8,
+        10.5,
+        8.92
+      ],
+      "to": [
+        8.1,
+        10.8,
+        9.02
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Channel soul 1",
+      "from": [
+        8.15,
+        10,
+        8.92
+      ],
+      "to": [
+        8.5,
+        10.35,
+        9.02
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Channel soul 2",
+      "from": [
+        7.55,
+        9.55,
+        8.92
+      ],
+      "to": [
+        7.85,
+        9.850000000000001,
+        9.02
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Channel soul 3",
+      "from": [
+        7.9,
+        9.05,
+        8.92
+      ],
+      "to": [
+        8.4,
+        9.55,
+        9.02
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart backing 0",
+      "from": [
+        7.45,
+        5.2700000000000005,
+        8.82
+      ],
+      "to": [
+        8.55,
+        5.85,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart backing 1",
+      "from": [
+        7.1,
+        5.85,
+        8.82
+      ],
+      "to": [
+        8.9,
+        6.25,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart backing 2",
+      "from": [
+        6.75,
+        6.25,
+        8.82
+      ],
+      "to": [
+        9.25,
+        6.65,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart backing 3",
+      "from": [
+        6.4,
+        6.65,
+        8.82
+      ],
+      "to": [
+        9.6,
+        7.05,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart backing 4",
+      "from": [
+        6.15,
+        7.05,
+        8.82
+      ],
+      "to": [
+        9.85,
+        7.45,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart backing 5",
+      "from": [
+        6.0,
+        7.45,
+        8.82
+      ],
+      "to": [
+        10.0,
+        7.85,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart backing 6",
+      "from": [
+        6.0,
+        7.85,
+        8.82
+      ],
+      "to": [
+        10.0,
+        8.25,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart lobe frame",
+      "from": [
+        6.3999999999999995,
+        8.25,
+        8.82
+      ],
+      "to": [
+        7.7,
+        8.65,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart lobe frame",
+      "from": [
+        8.299999999999999,
+        8.25,
+        8.82
+      ],
+      "to": [
+        9.6,
+        8.65,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 0",
+      "from": [
+        7.65,
+        5.45,
+        9.21
+      ],
+      "to": [
+        8.35,
+        5.85,
+        9.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.902777777777778,
+            6.365771812080537,
+            6.097222222222222,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 1",
+      "from": [
+        7.3,
+        5.85,
+        9.21
+      ],
+      "to": [
+        8.7,
+        6.25,
+        9.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.805555555555555,
+            6.231543624161073,
+            6.194444444444445,
+            6.365771812080537
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 2",
+      "from": [
+        6.95,
+        6.25,
+        9.21
+      ],
+      "to": [
+        9.05,
+        6.65,
+        9.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.708333333333333,
+            6.097315436241611,
+            6.291666666666667,
+            6.231543624161073
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 3",
+      "from": [
+        6.6,
+        6.65,
+        9.21
+      ],
+      "to": [
+        9.4,
+        7.05,
+        9.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.611111111111111,
+            5.9630872483221475,
+            6.388888888888889,
+            6.097315436241611
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 4",
+      "from": [
+        6.35,
+        7.05,
+        9.21
+      ],
+      "to": [
+        9.65,
+        7.45,
+        9.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.541666666666666,
+            5.828859060402684,
+            6.458333333333333,
+            5.9630872483221475
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 5",
+      "from": [
+        6.2,
+        7.45,
+        9.21
+      ],
+      "to": [
+        9.8,
+        7.85,
+        9.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            5.694630872483222,
+            6.5,
+            5.828859060402684
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart crystal row 6",
+      "from": [
+        6.2,
+        7.85,
+        9.21
+      ],
+      "to": [
+        9.8,
+        8.25,
+        9.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            5.560402684563758,
+            6.5,
+            5.694630872483222
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart crystal lobe",
+      "from": [
+        6.6,
+        8.25,
+        9.21
+      ],
+      "to": [
+        7.5,
+        8.43,
+        9.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.611111111111111,
+            5.5,
+            5.861111111111111,
+            5.560402684563758
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart crystal lobe",
+      "from": [
+        8.5,
+        8.25,
+        9.21
+      ],
+      "to": [
+        9.399999999999999,
+        8.43,
+        9.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            6.138888888888889,
+            5.5,
+            6.388888888888888,
+            5.560402684563758
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart light facet 0",
+      "from": [
+        7.8,
+        5.9,
+        9.31
+      ],
+      "to": [
+        8.2,
+        6.3,
+        9.34
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.944444444444445,
+            6.214765100671141,
+            6.055555555555555,
+            6.348993288590604
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart light facet 1",
+      "from": [
+        7.65,
+        6.3,
+        9.31
+      ],
+      "to": [
+        8.35,
+        6.7,
+        9.34
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.902777777777778,
+            6.080536912751677,
+            6.097222222222222,
+            6.214765100671141
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart light facet 2",
+      "from": [
+        7.55,
+        6.7,
+        9.31
+      ],
+      "to": [
+        8.45,
+        7.1,
+        9.34
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.875,
+            5.946308724832215,
+            6.125,
+            6.080536912751677
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Heart light facet 3",
+      "from": [
+        7.65,
+        7.1,
+        9.31
+      ],
+      "to": [
+        8.35,
+        7.5,
+        9.34
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.902777777777778,
+            5.8120805369127515,
+            6.097222222222222,
+            5.946308724832215
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.75,
+            5.75,
+            6.25,
+            6.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        5.6,
+        9.25,
+        8.65
+      ],
+      "to": [
+        6.1,
+        9.8,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "from": [
+        5.7299999999999995,
+        9.25,
+        9.14
+      ],
+      "to": [
+        5.97,
+        9.635,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        5.3,
+        8.65,
+        8.65
+      ],
+      "to": [
+        5.8,
+        9.25,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "from": [
+        5.43,
+        8.65,
+        9.14
+      ],
+      "to": [
+        5.67,
+        9.07,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        5.4,
+        7.8,
+        8.65
+      ],
+      "to": [
+        5.9,
+        8.65,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        5.7,
+        6.9,
+        8.65
+      ],
+      "to": [
+        6.2,
+        7.800000000000001,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "from": [
+        5.83,
+        6.9,
+        9.14
+      ],
+      "to": [
+        6.07,
+        7.53,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        5.95,
+        6,
+        8.65
+      ],
+      "to": [
+        6.45,
+        6.9,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        6.25,
+        5.1,
+        8.65
+      ],
+      "to": [
+        6.75,
+        6.0,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "from": [
+        6.38,
+        5.1,
+        9.14
+      ],
+      "to": [
+        6.62,
+        5.7299999999999995,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        6.55,
+        4.2,
+        8.65
+      ],
+      "to": [
+        7.05,
+        5.1000000000000005,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "from": [
+        6.68,
+        4.2,
+        9.14
+      ],
+      "to": [
+        6.92,
+        4.83,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        9.9,
+        9.25,
+        8.65
+      ],
+      "to": [
+        10.4,
+        9.8,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "from": [
+        10.030000000000001,
+        9.25,
+        9.14
+      ],
+      "to": [
+        10.27,
+        9.635,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        10.2,
+        8.65,
+        8.65
+      ],
+      "to": [
+        10.7,
+        9.25,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "from": [
+        10.33,
+        8.65,
+        9.14
+      ],
+      "to": [
+        10.569999999999999,
+        9.07,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        10.1,
+        7.8,
+        8.65
+      ],
+      "to": [
+        10.6,
+        8.65,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        9.8,
+        6.9,
+        8.65
+      ],
+      "to": [
+        10.3,
+        7.800000000000001,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "from": [
+        9.930000000000001,
+        6.9,
+        9.14
+      ],
+      "to": [
+        10.17,
+        7.53,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        9.55,
+        6,
+        8.65
+      ],
+      "to": [
+        10.05,
+        6.9,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        9.25,
+        5.1,
+        8.65
+      ],
+      "to": [
+        9.75,
+        6.0,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "from": [
+        9.38,
+        5.1,
+        9.14
+      ],
+      "to": [
+        9.62,
+        5.7299999999999995,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Carved side bevel",
+      "from": [
+        8.95,
+        4.2,
+        8.65
+      ],
+      "to": [
+        9.45,
+        5.1000000000000005,
+        9.13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            4.5,
+            6.0,
+            5.25
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Fine gold side inlay",
+      "from": [
+        9.08,
+        4.2,
+        9.14
+      ],
+      "to": [
+        9.319999999999999,
+        4.83,
+        9.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Lower seal frame",
+      "from": [
+        7.55,
+        2.9,
+        8.82
+      ],
+      "to": [
+        8.45,
+        4.6,
+        9.08
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Lower seal soul",
+      "from": [
+        7.75,
+        3.15,
+        9.09
+      ],
+      "to": [
+        8.25,
+        4.3,
+        9.18
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Tip gold inlay",
+      "from": [
+        7.85,
+        0.7,
+        8.82
+      ],
+      "to": [
+        8.15,
+        2.9,
+        8.97
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Back fine spine",
+      "from": [
+        7.85,
+        2,
+        6.98
+      ],
+      "to": [
+        8.15,
+        13.7,
+        7.1
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            3.0,
+            6.5,
+            3.75
+          ],
+          "texture": "#totem"
+        }
+      }
+    },
+    {
+      "name": "Back inset gem",
+      "from": [
+        7.65,
+        9.2,
+        6.87
+      ],
+      "to": [
+        8.35,
+        10.3,
+        6.98
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            5.5,
+            6.5,
+            6.5
+          ],
+          "texture": "#totem"
+        }
+      }
+    }
+  ]
+}

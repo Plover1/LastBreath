@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " D ",
+    " D ",
+    "OBO"
+  ],
+  "key": {
+    "D": "minecraft:diamond",
+    "O": "minecraft:obsidian",
+    "B": "minecraft:blaze_rod"
+  },
+  "result": {
+    "id": "lastbreath:executioner_sword",
+    "count": 1
+  }
+}

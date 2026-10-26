@@ -1,0 +1,2084 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "dark_oak_planks": "minecraft:block/dark_oak_planks",
+    "dark_oak_log": "minecraft:block/dark_oak_log",
+    "polished_deepslate": "minecraft:block/polished_deepslate",
+    "deepslate_tiles": "minecraft:block/deepslate_tiles",
+    "gold_block": "minecraft:block/gold_block",
+    "cyan_concrete": "minecraft:block/cyan_concrete",
+    "particle": "minecraft:block/dark_oak_planks"
+  },
+  "elements": [
+    {
+      "name": "Sturdy leg",
+      "from": [
+        1,
+        0,
+        1
+      ],
+      "to": [
+        4,
+        10,
+        4
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            1,
+            4,
+            4
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            1,
+            4,
+            4
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            6,
+            4,
+            16
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            6,
+            4,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            6,
+            4,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            6,
+            4,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "Sturdy leg",
+      "from": [
+        1,
+        0,
+        12
+      ],
+      "to": [
+        4,
+        10,
+        15
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            12,
+            4,
+            15
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            12,
+            4,
+            15
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            6,
+            4,
+            16
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            6,
+            4,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            6,
+            15,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            6,
+            15,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "Sturdy leg",
+      "from": [
+        12,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        10,
+        4
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            1,
+            15,
+            4
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            1,
+            15,
+            4
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            6,
+            15,
+            16
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            6,
+            15,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            6,
+            4,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            1,
+            6,
+            4,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "Sturdy leg",
+      "from": [
+        12,
+        0,
+        12
+      ],
+      "to": [
+        15,
+        10,
+        15
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            12,
+            15,
+            15
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            12,
+            15,
+            15
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            6,
+            15,
+            16
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            6,
+            15,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            6,
+            15,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            12,
+            6,
+            15,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "Lower stretcher",
+      "from": [
+        3,
+        3,
+        2
+      ],
+      "to": [
+        13,
+        5,
+        4
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            3,
+            2,
+            13,
+            4
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            3,
+            2,
+            13,
+            4
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            3,
+            11,
+            13,
+            13
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            3,
+            11,
+            13,
+            13
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            2,
+            11,
+            4,
+            13
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            2,
+            11,
+            4,
+            13
+          ]
+        }
+      }
+    },
+    {
+      "name": "Lower stretcher",
+      "from": [
+        3,
+        3,
+        12
+      ],
+      "to": [
+        13,
+        5,
+        14
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            3,
+            12,
+            13,
+            14
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            3,
+            12,
+            13,
+            14
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            3,
+            11,
+            13,
+            13
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            3,
+            11,
+            13,
+            13
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            12,
+            11,
+            14,
+            13
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            12,
+            11,
+            14,
+            13
+          ]
+        }
+      }
+    },
+    {
+      "name": "Solid tabletop",
+      "from": [
+        0,
+        10,
+        0
+      ],
+      "to": [
+        16,
+        13,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            0,
+            3,
+            16,
+            6
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            0,
+            3,
+            16,
+            6
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            0,
+            3,
+            16,
+            6
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            0,
+            3,
+            16,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "name": "Inset dark panel",
+      "from": [
+        2,
+        13,
+        2
+      ],
+      "to": [
+        14,
+        13.15,
+        14
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            2,
+            2,
+            14,
+            14
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            2,
+            2,
+            14,
+            14
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            2,
+            2.8499999999999996,
+            14,
+            3
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            2,
+            2.8499999999999996,
+            14,
+            3
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            2,
+            2.8499999999999996,
+            14,
+            3
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            2,
+            2.8499999999999996,
+            14,
+            3
+          ]
+        }
+      }
+    },
+    {
+      "name": "Small brass corner",
+      "from": [
+        0,
+        13,
+        0
+      ],
+      "to": [
+        2,
+        13.2,
+        2
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            0,
+            2,
+            2
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            0,
+            2,
+            2
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            2.8000000000000007,
+            2,
+            3
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            2.8000000000000007,
+            2,
+            3
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            2.8000000000000007,
+            2,
+            3
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            2.8000000000000007,
+            2,
+            3
+          ]
+        }
+      }
+    },
+    {
+      "name": "Small brass corner",
+      "from": [
+        0,
+        13,
+        14
+      ],
+      "to": [
+        2,
+        13.2,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            14,
+            2,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            14,
+            2,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            2.8000000000000007,
+            2,
+            3
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            2.8000000000000007,
+            2,
+            3
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            2.8000000000000007,
+            16,
+            3
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            2.8000000000000007,
+            16,
+            3
+          ]
+        }
+      }
+    },
+    {
+      "name": "Small brass corner",
+      "from": [
+        14,
+        13,
+        0
+      ],
+      "to": [
+        16,
+        13.2,
+        2
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            0,
+            16,
+            2
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            0,
+            16,
+            2
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            2.8000000000000007,
+            16,
+            3
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            2.8000000000000007,
+            16,
+            3
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            2.8000000000000007,
+            2,
+            3
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            0,
+            2.8000000000000007,
+            2,
+            3
+          ]
+        }
+      }
+    },
+    {
+      "name": "Small brass corner",
+      "from": [
+        14,
+        13,
+        14
+      ],
+      "to": [
+        16,
+        13.2,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            14,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            14,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            2.8000000000000007,
+            16,
+            3
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            2.8000000000000007,
+            16,
+            3
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            2.8000000000000007,
+            16,
+            3
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            14,
+            2.8000000000000007,
+            16,
+            3
+          ]
+        }
+      }
+    },
+    {
+      "name": "Tree trunk",
+      "from": [
+        7.7,
+        13.16,
+        5
+      ],
+      "to": [
+        8.3,
+        13.24,
+        12
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            7.7,
+            5,
+            8.3,
+            12
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            7.7,
+            5,
+            8.3,
+            12
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            7.7,
+            2.76,
+            8.3,
+            2.84
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            7.7,
+            2.76,
+            8.3,
+            2.84
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            5,
+            2.76,
+            12,
+            2.84
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            5,
+            2.76,
+            12,
+            2.84
+          ]
+        }
+      }
+    },
+    {
+      "name": "Tree branch",
+      "from": [
+        4,
+        13.16,
+        8
+      ],
+      "to": [
+        12,
+        13.24,
+        8.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            4,
+            8,
+            12,
+            8.5
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            4,
+            8,
+            12,
+            8.5
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            4,
+            2.76,
+            12,
+            2.84
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            4,
+            2.76,
+            12,
+            2.84
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            8,
+            2.76,
+            8.5,
+            2.84
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            8,
+            2.76,
+            8.5,
+            2.84
+          ]
+        }
+      }
+    },
+    {
+      "name": "Tree branch stem",
+      "from": [
+        4,
+        13.16,
+        4.5
+      ],
+      "to": [
+        4.5,
+        13.24,
+        8.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            4,
+            4.5,
+            4.5,
+            8.5
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            4,
+            4.5,
+            4.5,
+            8.5
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            4,
+            2.76,
+            4.5,
+            2.84
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            4,
+            2.76,
+            4.5,
+            2.84
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            4.5,
+            2.76,
+            8.5,
+            2.84
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            4.5,
+            2.76,
+            8.5,
+            2.84
+          ]
+        }
+      }
+    },
+    {
+      "name": "Tree branch stem",
+      "from": [
+        11.5,
+        13.16,
+        4.5
+      ],
+      "to": [
+        12.0,
+        13.24,
+        8.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            11.5,
+            4.5,
+            12.0,
+            8.5
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            11.5,
+            4.5,
+            12.0,
+            8.5
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            11.5,
+            2.76,
+            12.0,
+            2.84
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            11.5,
+            2.76,
+            12.0,
+            2.84
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            4.5,
+            2.76,
+            8.5,
+            2.84
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            4.5,
+            2.76,
+            8.5,
+            2.84
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node socket",
+      "from": [
+        7.35,
+        13.25,
+        10.85
+      ],
+      "to": [
+        8.65,
+        13.42,
+        12.15
+      ],
+      "faces": {
+        "up": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            10.85,
+            8.65,
+            12.15
+          ]
+        },
+        "down": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            10.85,
+            8.65,
+            12.15
+          ]
+        },
+        "south": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        },
+        "north": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        },
+        "east": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            10.85,
+            2.58,
+            12.15,
+            2.75
+          ]
+        },
+        "west": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            10.85,
+            2.58,
+            12.15,
+            2.75
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node",
+      "from": [
+        7.5,
+        13.43,
+        11
+      ],
+      "to": [
+        8.5,
+        13.55,
+        12
+      ],
+      "faces": {
+        "up": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            11,
+            8.5,
+            12
+          ]
+        },
+        "down": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            11,
+            8.5,
+            12
+          ]
+        },
+        "south": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        },
+        "north": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        },
+        "east": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            11,
+            2.4499999999999993,
+            12,
+            2.5700000000000003
+          ]
+        },
+        "west": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            11,
+            2.4499999999999993,
+            12,
+            2.5700000000000003
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node socket",
+      "from": [
+        7.35,
+        13.25,
+        7.35
+      ],
+      "to": [
+        8.65,
+        13.42,
+        8.65
+      ],
+      "faces": {
+        "up": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            7.35,
+            8.65,
+            8.65
+          ]
+        },
+        "down": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            7.35,
+            8.65,
+            8.65
+          ]
+        },
+        "south": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        },
+        "north": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        },
+        "east": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        },
+        "west": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node",
+      "from": [
+        7.5,
+        13.43,
+        7.5
+      ],
+      "to": [
+        8.5,
+        13.55,
+        8.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            7.5,
+            8.5,
+            8.5
+          ]
+        },
+        "down": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            7.5,
+            8.5,
+            8.5
+          ]
+        },
+        "south": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        },
+        "north": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        },
+        "east": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        },
+        "west": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node socket",
+      "from": [
+        3.6,
+        13.25,
+        7.35
+      ],
+      "to": [
+        4.9,
+        13.42,
+        8.65
+      ],
+      "faces": {
+        "up": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.6,
+            7.35,
+            4.9,
+            8.65
+          ]
+        },
+        "down": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.6,
+            7.35,
+            4.9,
+            8.65
+          ]
+        },
+        "south": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.6,
+            2.58,
+            4.9,
+            2.75
+          ]
+        },
+        "north": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.6,
+            2.58,
+            4.9,
+            2.75
+          ]
+        },
+        "east": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        },
+        "west": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node",
+      "from": [
+        3.75,
+        13.43,
+        7.5
+      ],
+      "to": [
+        4.75,
+        13.55,
+        8.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            3.75,
+            7.5,
+            4.75,
+            8.5
+          ]
+        },
+        "down": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            3.75,
+            7.5,
+            4.75,
+            8.5
+          ]
+        },
+        "south": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            3.75,
+            2.4499999999999993,
+            4.75,
+            2.5700000000000003
+          ]
+        },
+        "north": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            3.75,
+            2.4499999999999993,
+            4.75,
+            2.5700000000000003
+          ]
+        },
+        "east": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        },
+        "west": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node socket",
+      "from": [
+        11.1,
+        13.25,
+        7.35
+      ],
+      "to": [
+        12.4,
+        13.42,
+        8.65
+      ],
+      "faces": {
+        "up": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            11.1,
+            7.35,
+            12.4,
+            8.65
+          ]
+        },
+        "down": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            11.1,
+            7.35,
+            12.4,
+            8.65
+          ]
+        },
+        "south": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            11.1,
+            2.58,
+            12.4,
+            2.75
+          ]
+        },
+        "north": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            11.1,
+            2.58,
+            12.4,
+            2.75
+          ]
+        },
+        "east": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        },
+        "west": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node",
+      "from": [
+        11.25,
+        13.43,
+        7.5
+      ],
+      "to": [
+        12.25,
+        13.55,
+        8.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            11.25,
+            7.5,
+            12.25,
+            8.5
+          ]
+        },
+        "down": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            11.25,
+            7.5,
+            12.25,
+            8.5
+          ]
+        },
+        "south": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            11.25,
+            2.4499999999999993,
+            12.25,
+            2.5700000000000003
+          ]
+        },
+        "north": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            11.25,
+            2.4499999999999993,
+            12.25,
+            2.5700000000000003
+          ]
+        },
+        "east": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        },
+        "west": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node socket",
+      "from": [
+        3.6,
+        13.25,
+        3.85
+      ],
+      "to": [
+        4.9,
+        13.42,
+        5.15
+      ],
+      "faces": {
+        "up": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.6,
+            3.85,
+            4.9,
+            5.15
+          ]
+        },
+        "down": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.6,
+            3.85,
+            4.9,
+            5.15
+          ]
+        },
+        "south": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.6,
+            2.58,
+            4.9,
+            2.75
+          ]
+        },
+        "north": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.6,
+            2.58,
+            4.9,
+            2.75
+          ]
+        },
+        "east": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.85,
+            2.58,
+            5.15,
+            2.75
+          ]
+        },
+        "west": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.85,
+            2.58,
+            5.15,
+            2.75
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node",
+      "from": [
+        3.75,
+        13.43,
+        4
+      ],
+      "to": [
+        4.75,
+        13.55,
+        5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            3.75,
+            4,
+            4.75,
+            5
+          ]
+        },
+        "down": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            3.75,
+            4,
+            4.75,
+            5
+          ]
+        },
+        "south": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            3.75,
+            2.4499999999999993,
+            4.75,
+            2.5700000000000003
+          ]
+        },
+        "north": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            3.75,
+            2.4499999999999993,
+            4.75,
+            2.5700000000000003
+          ]
+        },
+        "east": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            4,
+            2.4499999999999993,
+            5,
+            2.5700000000000003
+          ]
+        },
+        "west": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            4,
+            2.4499999999999993,
+            5,
+            2.5700000000000003
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node socket",
+      "from": [
+        7.35,
+        13.25,
+        3.85
+      ],
+      "to": [
+        8.65,
+        13.42,
+        5.15
+      ],
+      "faces": {
+        "up": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            3.85,
+            8.65,
+            5.15
+          ]
+        },
+        "down": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            3.85,
+            8.65,
+            5.15
+          ]
+        },
+        "south": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        },
+        "north": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            7.35,
+            2.58,
+            8.65,
+            2.75
+          ]
+        },
+        "east": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.85,
+            2.58,
+            5.15,
+            2.75
+          ]
+        },
+        "west": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.85,
+            2.58,
+            5.15,
+            2.75
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node",
+      "from": [
+        7.5,
+        13.43,
+        4
+      ],
+      "to": [
+        8.5,
+        13.55,
+        5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            4,
+            8.5,
+            5
+          ]
+        },
+        "down": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            4,
+            8.5,
+            5
+          ]
+        },
+        "south": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        },
+        "north": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            7.5,
+            2.4499999999999993,
+            8.5,
+            2.5700000000000003
+          ]
+        },
+        "east": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            4,
+            2.4499999999999993,
+            5,
+            2.5700000000000003
+          ]
+        },
+        "west": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            4,
+            2.4499999999999993,
+            5,
+            2.5700000000000003
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node socket",
+      "from": [
+        11.1,
+        13.25,
+        3.85
+      ],
+      "to": [
+        12.4,
+        13.42,
+        5.15
+      ],
+      "faces": {
+        "up": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            11.1,
+            3.85,
+            12.4,
+            5.15
+          ]
+        },
+        "down": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            11.1,
+            3.85,
+            12.4,
+            5.15
+          ]
+        },
+        "south": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            11.1,
+            2.58,
+            12.4,
+            2.75
+          ]
+        },
+        "north": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            11.1,
+            2.58,
+            12.4,
+            2.75
+          ]
+        },
+        "east": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.85,
+            2.58,
+            5.15,
+            2.75
+          ]
+        },
+        "west": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            3.85,
+            2.58,
+            5.15,
+            2.75
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul node",
+      "from": [
+        11.25,
+        13.43,
+        4
+      ],
+      "to": [
+        12.25,
+        13.55,
+        5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            11.25,
+            4,
+            12.25,
+            5
+          ]
+        },
+        "down": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            11.25,
+            4,
+            12.25,
+            5
+          ]
+        },
+        "south": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            11.25,
+            2.4499999999999993,
+            12.25,
+            2.5700000000000003
+          ]
+        },
+        "north": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            11.25,
+            2.4499999999999993,
+            12.25,
+            2.5700000000000003
+          ]
+        },
+        "east": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            4,
+            2.4499999999999993,
+            5,
+            2.5700000000000003
+          ]
+        },
+        "west": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            4,
+            2.4499999999999993,
+            5,
+            2.5700000000000003
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path('src/gameTest/java/me/vlad/lastbreath/client/WandererDetailModel.java');s=p.read_text(encoding='utf-8').replace('tail.xRot=-.1f-movement+sway','tail.xRot=.12f+movement+sway').replace('tail.xRot=.08f+(animate?Math.max(0,-leg)*.55f:0)','tail.xRot=-.1f-(animate?Math.max(0,-leg)*.55f:0)').replace('sign<0?-3.5f:2.1f+n*.45f','(sign<0?-3.5f:2.1f)+n*.45f');p.write_text(s,encoding='utf-8');Path('art/wanderer-detail/WandererDetailModel.java').write_text(s,encoding='utf-8')

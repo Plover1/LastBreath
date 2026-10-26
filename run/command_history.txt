@@ -1,0 +1,50 @@
+/lastbreath ghost
+/lastbreath alive
+/lastbreath ghost
+/lastbreath alive
+/summon minecraft:chicken
+/lastbreath revive
+/lastbreath souls
+/lastbreath ghost
+/lastbreath alive
+/lastbreath ghost
+/summon minecraft:zoglin
+/summon minecraft:zombie
+/lastbreath alive
+/lastbreath ghost
+/lastbreath alive
+/time set minecraft:day
+/summon minecraft:wither
+/lastbreath souls set Dev blue 100
+/lastbreath souls set Dev blue 1000
+/lastbreath souls set Dev purple 1000
+/lastbreath souls set Dev red 1000
+/lastbreath ghost
+/lastbreath alive
+/lastbreath ghost
+/locate structure minecraft:ruined_portal
+/tp @s 96 ~ -352
+/effect give Dev minecraft:strength 1000 255
+/lastbreath ghost
+/lastbreath alive
+/summon minecraft:wither
+/lastbreath ghost
+/lastbreath alive
+/lastbreath ghost
+/lastbreath alive
+/lastbreath ghost
+/lastbreath alive
+/lastbreath ghost
+/give Dev lastbreath:return_heart
+/lastbreath ghost
+/lastbreath alive
+/kill
+/locate structure
+/locate structure #c:hidden_from_displayers
+/place feature lastbreath:memory_shrine ~ ~ ~
+/lastbreath ghost
+/lastbreath alive
+/kill
+/lastbreath alive Dev
+/place feature lastbreath:memory_shrine ~ ~ ~
+/lastbreath ghost

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GAG",
+    "OEO",
+    "OOO"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "A": "minecraft:amethyst_shard",
+    "O": "minecraft:obsidian",
+    "E": "minecraft:ender_pearl"
+  },
+  "result": {
+    "id": "lastbreath:return_altar",
+    "count": 1
+  }
+}

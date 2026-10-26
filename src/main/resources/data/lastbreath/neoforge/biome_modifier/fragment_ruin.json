@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:soul_sand_valley",
+  "features": "lastbreath:fragment_ruin",
+  "step": "surface_structures"
+}

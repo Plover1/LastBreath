@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "V V",
+    "VVV"
+  ],
+  "key": {
+    "G": "minecraft:gold_nugget",
+    "V": "minecraft:glass"
+  },
+  "result": {
+    "id": "lastbreath:empty_soul_jar",
+    "count": 1
+  }
+}

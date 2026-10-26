@@ -1,0 +1,4 @@
+from pathlib import Path
+p=Path('work/gear-cloak-atlas10.ps1');s=p.read_text().replace('new(64,32,','new(128,64,').replace('foreach($x in @(0,32))','foreach($x in @(0,32,64,96))').replace('foreach($x in @(33,44))','foreach($x in @(66,88))').replace('new($x,1,10,20)','new($x,2,20,40)');p.write_text(s)
+p=Path('src/main/java/me/vlad/lastbreath/client/SoulCloakRendering.java');s=p.read_text().replace('texOffs(32,0).addBox(-5,0,0,10,20,1,new CubeDeformation(.1f)),PartPose.offset(0,0,2.6f)','texOffs(64,0).addBox(-10,0,0,20,40,2,new CubeDeformation(.2f)),PartPose.offset(0,0,2.6f).withScale(.5f)').replace('LayerDefinition.create(mesh,64,32)','LayerDefinition.create(mesh,128,64)');p.write_text(s)
+p=Path('ASSET_SOURCES.md');s=p.read_text().replace('into a 64×32 UV atlas','into a 128×64 UV atlas').replace('the 10×20 panels at (33,1) and (44,1)','the 20×40 panels at (66,2) and (88,2), with a half-scale cape model part');p.write_text(s,encoding='utf-8')

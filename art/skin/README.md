@@ -1,0 +1,12 @@
+# Last Breath — skin
+
+File: LastBreath-Siris102-skin.png. Minecraft Java skin, PNG 64×64, Classic / Steve (wide 4-pixel arms).
+Choose this PNG in your Minecraft profile skin uploader, not the preview. Select Classic arms.
+The preview is a software render of the actual final PNG mapped onto the standard skin UV layout; it is not an in-game screenshot.
+
+Original character head and hair (entire top 16 rows including overlay) are copied pixel-for-pixel from the user's source. Original hand patches are preserved. Clothing was edited with the built-in imagegen tool, then resized and packed into the standard atlas. No mod JAR changes were made.
+
+Generated source: exec-85ecb5e0-624d-4931-b118-bb7c6ed6a82b.png, retained in the project at art/skin/generated-atlas.png.
+
+Generation prompt:
+Edit this Minecraft skin UV texture atlas into a Last Breath soul wanderer outfit. Output a FLAT TECHNICAL MINECRAFT CLASSIC STEVE SKIN ATLAS, not a character render. Preserve EXACT pixel alignment and layout of this 64x64 skin, enlarged as 1024x1024 with each logical pixel 16x16. Preserve head, hair, eyes and skin colors: dark brown hair, warm peach skin and muted green eyes. Change only clothing: weathered beige/tan traveler coat with dark brown leather diagonal chest strap, small brass buckle, teal-black vest, tiny cyan gem below neck, purple details retained at cuffs as character identity, brown fingerless gloves exposing original peach hands, charcoal teal trousers, tall dark brown boots with brass clasps. No hood or hat covering face. No front long coat skirts, rear coat tails suggested on back of legs. Crisp Minecraft pixel art, simple coherent highlights, no antialiasing. EXACT standard 64x64 classic 4-pixel arms UV map: head base within x0..31 y0..15 and head overlay x32..63 y0..15 unchanged. Right leg base tile x0..15 y16..31. Torso base x16..39 y16..31, with front x20..27 y20..31 and back x32..39 y20..31. Right arm base x40..55 y16..31 front x44..47 y20..31. Left leg base x16..31 y48..63, left arm base x32..47 y48..63. Every base face must be opaque. Outer clothing layers optional sparse following same standard mapping: right leg x0..15 y32..47, torso x16..39 y32..47, right arm x40..55 y32..47, left leg x0..15 y48..63, left arm x48..63 y48..63. Unused atlas areas and unused overlay pixels transparent. Do NOT rearrange, add margin, label, grid, checkerboard, mannequin, perspective or watermark. This output must be usable as a Minecraft 64x64 skin after exact nearest neighbor reduction.

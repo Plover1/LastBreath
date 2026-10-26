@@ -1,0 +1,1325 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "dark_oak_planks": "minecraft:block/dark_oak_planks",
+    "dark_oak_log": "minecraft:block/dark_oak_log",
+    "polished_deepslate": "minecraft:block/polished_deepslate",
+    "deepslate_tiles": "minecraft:block/deepslate_tiles",
+    "gold_block": "minecraft:block/gold_block",
+    "cyan_concrete": "minecraft:block/cyan_concrete",
+    "particle": "minecraft:block/polished_deepslate"
+  },
+  "elements": [
+    {
+      "name": "Stone foundation",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        2,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ]
+        },
+        "north": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "Stepped stone pedestal",
+      "from": [
+        2,
+        2,
+        2
+      ],
+      "to": [
+        14,
+        8,
+        14
+      ],
+      "faces": {
+        "up": {
+          "texture": "#deepslate_tiles",
+          "uv": [
+            2,
+            2,
+            14,
+            14
+          ]
+        },
+        "down": {
+          "texture": "#deepslate_tiles",
+          "uv": [
+            2,
+            2,
+            14,
+            14
+          ]
+        },
+        "south": {
+          "texture": "#deepslate_tiles",
+          "uv": [
+            2,
+            8,
+            14,
+            14
+          ]
+        },
+        "north": {
+          "texture": "#deepslate_tiles",
+          "uv": [
+            2,
+            8,
+            14,
+            14
+          ]
+        },
+        "east": {
+          "texture": "#deepslate_tiles",
+          "uv": [
+            2,
+            8,
+            14,
+            14
+          ]
+        },
+        "west": {
+          "texture": "#deepslate_tiles",
+          "uv": [
+            2,
+            8,
+            14,
+            14
+          ]
+        }
+      }
+    },
+    {
+      "name": "Upper stone slab",
+      "from": [
+        1,
+        8,
+        1
+      ],
+      "to": [
+        15,
+        10,
+        15
+      ],
+      "faces": {
+        "up": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            1,
+            1,
+            15,
+            15
+          ]
+        },
+        "down": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            1,
+            1,
+            15,
+            15
+          ]
+        },
+        "south": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            1,
+            6,
+            15,
+            8
+          ]
+        },
+        "north": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            1,
+            6,
+            15,
+            8
+          ]
+        },
+        "east": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            1,
+            6,
+            15,
+            8
+          ]
+        },
+        "west": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            1,
+            6,
+            15,
+            8
+          ]
+        }
+      }
+    },
+    {
+      "name": "Offering recess floor",
+      "from": [
+        4,
+        10,
+        4
+      ],
+      "to": [
+        12,
+        10.2,
+        12
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            4,
+            5.800000000000001,
+            12,
+            6
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            4,
+            5.800000000000001,
+            12,
+            6
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            4,
+            5.800000000000001,
+            12,
+            6
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_log",
+          "uv": [
+            4,
+            5.800000000000001,
+            12,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "name": "Dark wooden rim",
+      "from": [
+        1,
+        10,
+        1
+      ],
+      "to": [
+        15,
+        12,
+        4
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            1,
+            15,
+            4
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            1,
+            15,
+            4
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            4,
+            15,
+            6
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            4,
+            15,
+            6
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            4,
+            4,
+            6
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            4,
+            4,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "name": "Dark wooden rim",
+      "from": [
+        1,
+        10,
+        12
+      ],
+      "to": [
+        15,
+        12,
+        15
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            12,
+            15,
+            15
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            12,
+            15,
+            15
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            4,
+            15,
+            6
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            4,
+            15,
+            6
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            12,
+            4,
+            15,
+            6
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            12,
+            4,
+            15,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "name": "Dark wooden rim",
+      "from": [
+        1,
+        10,
+        4
+      ],
+      "to": [
+        4,
+        12,
+        12
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            4,
+            4,
+            12
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            4,
+            4,
+            12
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            4,
+            4,
+            6
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            1,
+            4,
+            4,
+            6
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            4,
+            4,
+            12,
+            6
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            4,
+            4,
+            12,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "name": "Dark wooden rim",
+      "from": [
+        12,
+        10,
+        4
+      ],
+      "to": [
+        15,
+        12,
+        12
+      ],
+      "faces": {
+        "up": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            12,
+            4,
+            15,
+            12
+          ]
+        },
+        "down": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            12,
+            4,
+            15,
+            12
+          ]
+        },
+        "south": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            12,
+            4,
+            15,
+            6
+          ]
+        },
+        "north": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            12,
+            4,
+            15,
+            6
+          ]
+        },
+        "east": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            4,
+            4,
+            12,
+            6
+          ]
+        },
+        "west": {
+          "texture": "#dark_oak_planks",
+          "uv": [
+            4,
+            4,
+            12,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "name": "Totem resting socket",
+      "from": [
+        6,
+        10.21,
+        6
+      ],
+      "to": [
+        10,
+        10.35,
+        10
+      ],
+      "faces": {
+        "up": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            6,
+            6,
+            10,
+            10
+          ]
+        },
+        "down": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            6,
+            6,
+            10,
+            10
+          ]
+        },
+        "south": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            6,
+            5.65,
+            10,
+            5.789999999999999
+          ]
+        },
+        "north": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            6,
+            5.65,
+            10,
+            5.789999999999999
+          ]
+        },
+        "east": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            6,
+            5.65,
+            10,
+            5.789999999999999
+          ]
+        },
+        "west": {
+          "texture": "#polished_deepslate",
+          "uv": [
+            6,
+            5.65,
+            10,
+            5.789999999999999
+          ]
+        }
+      }
+    },
+    {
+      "name": "Brass rune mount",
+      "from": [
+        2,
+        12,
+        2
+      ],
+      "to": [
+        4,
+        12.15,
+        4
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            2,
+            4,
+            4
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            2,
+            4,
+            4
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            3.8499999999999996,
+            4,
+            4
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            3.8499999999999996,
+            4,
+            4
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            3.8499999999999996,
+            4,
+            4
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            3.8499999999999996,
+            4,
+            4
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul rune",
+      "from": [
+        2.5,
+        12.16,
+        2.5
+      ],
+      "to": [
+        3.5,
+        12.3,
+        3.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            2.5,
+            3.5,
+            3.5
+          ]
+        },
+        "down": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            2.5,
+            3.5,
+            3.5
+          ]
+        },
+        "south": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            3.6999999999999993,
+            3.5,
+            3.84
+          ]
+        },
+        "north": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            3.6999999999999993,
+            3.5,
+            3.84
+          ]
+        },
+        "east": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            3.6999999999999993,
+            3.5,
+            3.84
+          ]
+        },
+        "west": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            3.6999999999999993,
+            3.5,
+            3.84
+          ]
+        }
+      }
+    },
+    {
+      "name": "Brass rune mount",
+      "from": [
+        12,
+        12,
+        2
+      ],
+      "to": [
+        14,
+        12.15,
+        4
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            2,
+            14,
+            4
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            2,
+            14,
+            4
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            3.8499999999999996,
+            14,
+            4
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            3.8499999999999996,
+            14,
+            4
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            3.8499999999999996,
+            4,
+            4
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            3.8499999999999996,
+            4,
+            4
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul rune",
+      "from": [
+        12.5,
+        12.16,
+        2.5
+      ],
+      "to": [
+        13.5,
+        12.3,
+        3.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            2.5,
+            13.5,
+            3.5
+          ]
+        },
+        "down": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            2.5,
+            13.5,
+            3.5
+          ]
+        },
+        "south": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            3.6999999999999993,
+            13.5,
+            3.84
+          ]
+        },
+        "north": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            3.6999999999999993,
+            13.5,
+            3.84
+          ]
+        },
+        "east": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            3.6999999999999993,
+            3.5,
+            3.84
+          ]
+        },
+        "west": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            3.6999999999999993,
+            3.5,
+            3.84
+          ]
+        }
+      }
+    },
+    {
+      "name": "Brass rune mount",
+      "from": [
+        2,
+        12,
+        12
+      ],
+      "to": [
+        4,
+        12.15,
+        14
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            12,
+            4,
+            14
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            12,
+            4,
+            14
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            3.8499999999999996,
+            4,
+            4
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            2,
+            3.8499999999999996,
+            4,
+            4
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            3.8499999999999996,
+            14,
+            4
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            3.8499999999999996,
+            14,
+            4
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul rune",
+      "from": [
+        2.5,
+        12.16,
+        12.5
+      ],
+      "to": [
+        3.5,
+        12.3,
+        13.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            12.5,
+            3.5,
+            13.5
+          ]
+        },
+        "down": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            12.5,
+            3.5,
+            13.5
+          ]
+        },
+        "south": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            3.6999999999999993,
+            3.5,
+            3.84
+          ]
+        },
+        "north": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            2.5,
+            3.6999999999999993,
+            3.5,
+            3.84
+          ]
+        },
+        "east": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            3.6999999999999993,
+            13.5,
+            3.84
+          ]
+        },
+        "west": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            3.6999999999999993,
+            13.5,
+            3.84
+          ]
+        }
+      }
+    },
+    {
+      "name": "Brass rune mount",
+      "from": [
+        12,
+        12,
+        12
+      ],
+      "to": [
+        14,
+        12.15,
+        14
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            12,
+            14,
+            14
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            12,
+            14,
+            14
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            3.8499999999999996,
+            14,
+            4
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            3.8499999999999996,
+            14,
+            4
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            3.8499999999999996,
+            14,
+            4
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            12,
+            3.8499999999999996,
+            14,
+            4
+          ]
+        }
+      }
+    },
+    {
+      "name": "Soul rune",
+      "from": [
+        12.5,
+        12.16,
+        12.5
+      ],
+      "to": [
+        13.5,
+        12.3,
+        13.5
+      ],
+      "faces": {
+        "up": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            12.5,
+            13.5,
+            13.5
+          ]
+        },
+        "down": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            12.5,
+            13.5,
+            13.5
+          ]
+        },
+        "south": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            3.6999999999999993,
+            13.5,
+            3.84
+          ]
+        },
+        "north": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            3.6999999999999993,
+            13.5,
+            3.84
+          ]
+        },
+        "east": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            3.6999999999999993,
+            13.5,
+            3.84
+          ]
+        },
+        "west": {
+          "texture": "#cyan_concrete",
+          "uv": [
+            12.5,
+            3.6999999999999993,
+            13.5,
+            3.84
+          ]
+        }
+      }
+    },
+    {
+      "name": "Front brass detail",
+      "from": [
+        3,
+        4,
+        1.85
+      ],
+      "to": [
+        5,
+        6,
+        2
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            3,
+            1.85,
+            5,
+            2
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            3,
+            1.85,
+            5,
+            2
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            3,
+            10,
+            5,
+            12
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            3,
+            10,
+            5,
+            12
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            1.85,
+            10,
+            2,
+            12
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            1.85,
+            10,
+            2,
+            12
+          ]
+        }
+      }
+    },
+    {
+      "name": "Front brass detail",
+      "from": [
+        11,
+        4,
+        1.85
+      ],
+      "to": [
+        13,
+        6,
+        2
+      ],
+      "faces": {
+        "up": {
+          "texture": "#gold_block",
+          "uv": [
+            11,
+            1.85,
+            13,
+            2
+          ]
+        },
+        "down": {
+          "texture": "#gold_block",
+          "uv": [
+            11,
+            1.85,
+            13,
+            2
+          ]
+        },
+        "south": {
+          "texture": "#gold_block",
+          "uv": [
+            11,
+            10,
+            13,
+            12
+          ]
+        },
+        "north": {
+          "texture": "#gold_block",
+          "uv": [
+            11,
+            10,
+            13,
+            12
+          ]
+        },
+        "east": {
+          "texture": "#gold_block",
+          "uv": [
+            1.85,
+            10,
+            2,
+            12
+          ]
+        },
+        "west": {
+          "texture": "#gold_block",
+          "uv": [
+            1.85,
+            10,
+            2,
+            12
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "lastbreath:soul_cloak"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "lastbreath:soul_cloak"
+      }
+    ]
+  }
+}
